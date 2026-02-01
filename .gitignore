@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+
+# Large generated files
+data/processed/embeddings.npy
+data/processed/faiss.index
+
+# HuggingFace cache
+~/.cache/huggingface/
+
+# Logs
+*.log
+

@@ -1,0 +1,1320 @@
+Citation: Rizea, R.E.; Corlatescu,
+A.-D.; Costin, H.P.; Dumitru, A.;
+Ciurea, A.V. Understanding
+Amyotrophic Lateral Sclerosis:
+Pathophysiology, Diagnosis, and
+Therapeutic Advances. Int. J. Mol. Sci.
+2024, 25, 9966. https://doi.org/
+10.3390/ijms25189966
+Academic Editor: Elisabetta Pupillo
+Received: 1 August 2024
+Revised: 12 September 2024
+Accepted: 13 September 2024
+Published: 15 September 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+ 
+International Journal of 
+Molecular Sciences
+Review
+Understanding Amyotrophic Lateral Sclerosis: Pathophysiology,
+Diagnosis, and Therapeutic Advances
+Radu Eugen Rizea 1,2
+, Antonio-Daniel Corlatescu 1
+, Horia Petre Costin 1
+, Adrian Dumitru 1,3,4,*
+and Alexandru Vlad Ciurea 1,5
+1
+Department of Neurosurgery, University of Medicine and Pharmacy, “Carol Davila”,
+020021 Bucharest, Romania; radu.rizea@umfcd.ro (R.E.R.); antonio.corlatescu0920@stud.umfcd.ro (A.-D.C.);
+horia-petre.costin0720@stud.umfcd.ro (H.P.C.); prof.avciurea@gmail.com (A.V.C.)
+2
+Department of Neurosurgery, “Bagdasar-Arseni” Clinical Emergency Hospital, 041915 Bucharest, Romania
+3
+Department of Morphopathology, University of Medicine and Pharmacy, “Carol Davila”,
+020021 Bucharest, Romania
+4
+Emergency University Hospital Bucharest, 050098 Bucharest, Romania
+5
+Sanador Clinical Hospital, 010991 Bucharest, Romania
+*
+Correspondence: vasile.dumitru@umfcd.ro
+Abstract: This review offers an in-depth examination of amyotrophic lateral sclerosis (ALS), address-
+ing its epidemiology, pathophysiology, clinical presentation, diagnostic techniques, and current as
+well as emerging treatments. The purpose is to condense key findings and illustrate the complexity
+of ALS, which is shaped by both genetic and environmental influences. We reviewed the literature to
+discuss recent advancements in understanding molecular mechanisms such as protein misfolding,
+mitochondrial dysfunction, oxidative stress, and axonal transport defects, which are critical for
+identifying potential therapeutic targets. Significant progress has been made in refining diagnos-
+tic criteria and identifying biomarkers, leading to earlier and more precise diagnoses. Although
+current drug treatments provide some benefits, there is a clear need for more effective therapies.
+Emerging treatments, such as gene therapy and stem cell therapy, show potential in modifying
+disease progression and improving the quality of life for ALS patients. The review emphasizes the
+importance of continued research to address challenges such as disease variability and the limited
+effectiveness of existing treatments. Future research should concentrate on further exploring the
+molecular foundations of ALS and developing new therapeutic approaches. The implications for
+clinical practice include ensuring the accessibility of new treatments and that healthcare systems are
+equipped to support ongoing research and patient care.
+Keywords: amyotrophic lateral sclerosis (ALS); therapeutic approaches; gene therapy; stem cell
+therapy; biomarkers; neurodegeneration
+1. Introduction
+Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease that impacts
+the central nervous system and poses significant challenges in diagnosis, particularly
+during its initial stages. Due to its rarity, physicians frequently prioritize more common
+diseases, resulting in diagnostic delays. Although the prevalence of ALS is low because
+of the short life expectancy of affected individuals, the lifetime risk of developing ALS is
+approximately 1 in 350 [1].
+Identifying the diverse symptoms of ALS and recognizing it as a complex syndrome
+that often includes behavioral changes may aid in earlier diagnosis. Improvements in
+diagnostic criteria and the identification of genetic risk factors are also expected to accelerate
+the diagnostic process [2].
+Diagnosing ALS remains a significant challenge, with little change in the diagnostic
+approach over the past decade. Despite the increased use of genetic testing, clinical history
+Int. J. Mol. Sci. 2024, 25, 9966. https://doi.org/10.3390/ijms25189966
+https://www.mdpi.com/journal/ijms
+
+Int. J. Mol. Sci. 2024, 25, 9966
+2 of 21
+and examination are still the primary methods for confirming an ALS diagnosis. On aver-
+age, it takes between 10 and 16 months from the onset of symptoms to receive a definitive
+diagnosis. This delay is attributed to the rarity and unfamiliarity of ALS, incomplete
+symptom recognition, and the lack of early specialist involvement [3]. Furthermore, the
+prognosis for ALS patients is poor, as the factors influencing disease progression are not
+fully understood.
+To facilitate earlier diagnosis and improve outcomes, ongoing research is focusing on
+new ALS criteria and scoring systems, as well as the development of emerging biofluid
+markers, imaging techniques, and electrophysiological measurements. Recent advances in
+understanding the genotype-phenotype expression of familial amyotrophic lateral sclerosis
+(FALS) have aligned clinical, pathological, and genetic observations within families, reveal-
+ing several presentation patterns predominantly associated with autosomal dominant (AD)
+inheritance [4]. The first pattern observed involves a rapid decline in motor function within
+five years, characterized by anterior horn cell (AHC) loss and corticospinal tract (CST) de-
+generation. A second pattern, clinically similar to the first, includes additional postmortem
+changes in the posterior columns, Clarke’s column, and spinocerebellar tracts. A third
+pattern, also similar to the second, features a longer survival period of over 10–20 years.
+Patients with FALS associated with frontotemporal dementia (FTD) (FTD-ALS) exhibit
+multisystem manifestations, known as ALS-plus syndromes [5], which encompass cog-
+nitive and neurobehavioral impairments in addition to motor symptoms. These patients
+often experience bulbar-onset ALS and pathogenic gene expansions or mutations twice
+as frequently, resulting in generally shorter survival compared to those without ALS-plus
+syndromes. In rare cases, some FALS patients experience onset in their early teens, which
+is particularly devastating.
+2. Epidemiology and Risk Factors
+The incidence of ALS increases with age, reaching its peak between 60 and 79 years,
+though variations can occur based on ancestral background [6–8]. While some research
+suggests that incidence rates have remained stable over the past few decades [1], other
+studies indicate a potential increase [9,10]. These perceived changes might stem from
+improved diagnostic methods or evolving reporting standards, underscoring the impor-
+tance of well-maintained population registries. Whether ALS incidence has significantly
+changed in the last twenty years remains uncertain, but it is expected to rise with the
+aging population [11]. Additionally, the prevalence of ALS is projected to increase due to
+an aging population and advancements in disease management that support longer life
+expectancy [11,12].
+ALS incidence also varies by sex, with an overall standardized male-to-female ratio of
+1.35, influenced by the age at onset [13]. Genetics is another contributing factor; heritability
+is higher in mother-daughter pairs [1], and the most common ALS risk gene, C9ORF72,
+results in an earlier onset in males compared to females [14]. Therefore, ALS development
+is driven by a complex interaction of age, sex, and genetic factors [15], which has significant
+implications for both preclinical and clinical research, as well as clinical trials.
+ALS incidence is influenced by ancestral background and biological sex, with vari-
+ations seen across different age groups [15]. Although the disease is more prevalent in
+males, heritability appears to be higher among females, particularly with the highest con-
+cordance observed in female–female parent–offspring pairs [1]. Additionally, males with
+the C9ORF72 repeat expansion typically experience the onset of ALS approximately two
+years earlier than females with the same genetic marker [14]. Thus, the risk of developing
+ALS is shaped by a complex interplay of age, sex, and genetic factors [15]. These sex-based
+disparities underscore the importance of considering sex as a factor in both preclinical
+and clinical research to fully understand its impact, as well as in ALS clinical trials for the
+development of targeted treatments.
+Amyotrophic lateral sclerosis (ALS) is influenced by both genetic and environmental
+factors. Familial ALS (FALS) accounts for 5–10% of cases, while the remaining 90–95%
+
+Int. J. Mol. Sci. 2024, 25, 9966
+3 of 21
+are sporadic ALS (SALS). Men are more likely to develop ALS than women, with a risk
+ratio ranging from 1.3 to 1.56 times higher. Various factors have been investigated to
+understand their impact on ALS risk, including smoking, physical activity, and exposure
+to metals, pesticides, and electromagnetic fields. Smoking has been consistently linked to
+an increased risk of ALS. However, the relationship between physical activity, particularly
+intense sports, and ALS remains unclear. Work-related exposure to metals such as lead
+and mercury has been proposed as a potential risk factor for ALS in several studies.
+Additionally, military service, especially during the Gulf War, has been associated with a
+higher incidence of ALS, possibly due to environmental exposures like high selenium levels
+from oil fires. Traumatic brain injuries and occupations involving electrical work have
+also been examined as risk factors, but the findings are mixed. These insights underscore
+the complex interplay between genetic predisposition and environmental factors in the
+development of ALS [16,17].
+3. Pathophysiology
+It is increasingly evident that a well-functioning protein degradation system is crucial
+for cellular health. In mammalian cells, protein degradation occurs via two primary
+pathways: the ubiquitin-proteasome system (UPS) and autophagy mechanisms. The
+UPS primarily degrades small, soluble proteins that are tagged for destruction, whereas
+autophagy handles the clearance of larger protein complexes. Although this suggests that
+enhancing autophagy might be an effective strategy for removing toxic TDP-43 aggregates,
+the formation and progression of these aggregates beyond protein monomers may point to
+an initial dysfunction in the UPS. Furthermore, TDP-43 inclusions are known to accumulate
+when both UPS and autophagy are inhibited [18–21].
+Up to 10% of ALS patients have at least one other affected family member, classifying
+their condition as familial ALS (fALS), which is almost always inherited in an autosomal
+dominant manner [22]. Although over 50 potentially causative or disease-modifying genes
+have been identified, the most frequent pathogenic variants occur in SOD1, C9ORF72, FUS,
+and TARDBP, with disease-causing variants in other genes being relatively uncommon [23].
+The prevalence of ALS cases attributed to variants in these common ALS-linked genes
+varies between European and Asian populations. Genetic risk factors are thought to
+significantly contribute to sporadic ALS (sALS), with twin studies estimating heritability
+at around 60% [24]. Despite numerous genetic association studies, identifying heritable
+genetic risk factors in sALS remains challenging.
+The method of genetic diagnosis may also contribute to the apparent missing heri-
+tability in ALS. Genetic diagnosis is often conducted through whole exome sequencing,
+which can miss crucial intronic and intergenic variants. An increase in rare variants, many
+of unknown significance, has been found in the untranslated regions of known disease-
+causing genes, including SOD1, TARDBP, FUS, VCP, OPTN, and UBQLN2, highlighting
+the potential importance of regulatory gene regions in determining disease pathogenesis
+and making genetic diagnoses [25]. Heritability can also be difficult to determine due
+to the incomplete penetrance of variants in many ALS-associated genes. For example,
+C9ORF72 and ATXN2 variants exhibit incomplete penetrance, with symptoms not always
+manifesting in mutation carriers [14,26]. This can cause inherited cases to appear sporadic.
+A substantial portion of the genetic risk for sALS remains unidentified; as a result,
+much research has focused on understanding how variations and differences in the expres-
+sion of known ALS-linked genes lead to the disease. The genes SOD1, TARDBP, FUS, and
+C9ORF72 have been the most extensively studied.
+In the field of neurodegenerative diseases, including Alzheimer’s, Parkinson’s, and
+Huntington’s (AD-PD-HD), and ALS neuroinflammation has emerged as a crucial factor
+driving the progression of neuronal degeneration. Research has increasingly highlighted the
+significant role that chronic inflammation in the brain plays in exacerbating these conditions.
+Multiple studies have shown that cannabinoids possess properties that can effectively
+reduce this neuroinflammatory burden. These compounds, derived from the cannabis plant,
+
+Int. J. Mol. Sci. 2024, 25, 9966
+4 of 21
+interact with the endocannabinoid system in the brain, which is involved in regulating
+inflammation and neuroprotection. By modulating immune responses and reducing inflam-
+matory cytokines, cannabinoids have demonstrated potential in mitigating the harmful
+effects of neuroinflammation. This growing body of evidence suggests that cannabinoid-
+based therapies could offer promising new avenues for treating neurodegenerative diseases
+by addressing one of their key underlying mechanisms [27].
+4. Protein Misfolding and Aggregation: Role of C9ORF72, TDP-43, SOD1, FUS
+4.1. C9ORF72
+The hexanucleotide repeat expansion is located in the first intron of the C9ORF72 gene.
+The actual sizes of these repeats vary significantly among C9ORF72 patients. Although the
+threshold for pathogenic repeat size remains unknown, a cutoff of 30 repeats is commonly
+used in most studies. Healthy individuals typically have fewer than 11 repeats, while most
+patients exhibit several hundreds to thousands of repeats [28]. A small subset of patients
+also display shorter expansions ranging from 45 to 80 repeats [29].
+The repeat expansion in the C9ORF72 gene is a major genetic factor in ALS and FTD,
+accounting for approximately 40% of familial ALS (FALS), 30% of familial FTD (FFTD),
+and about 8% of sporadic ALS (SALS) cases, particularly in predominantly Caucasian
+populations. The discovery of the C9ORF72 mutation in ALS and FTD has led scientists to
+explore its potential involvement in other neurodegenerative disorders as well [30].
+Regarding cell type distribution, C9ORF72 expression is notably high in myeloid
+cells, particularly in CD14+ monocytes, eosinophils, and neutrophils, while it is lower in
+lymphoid cells and other tissues. Overall, the C9ORF72 protein is mainly expressed in the
+brain, spinal cord, and immune system, with lower levels detected in other organs such as
+the lungs, heart, liver, kidney, and skeletal muscle, reflecting the transcript’s expression
+profile [31].
+The C9ORF72 gene transcribes three distinct mRNA isoforms (V1–V3), which encode
+two proteins: C9ORF72-long (C9-L), a 481-amino acid protein, and C9ORF72-short (C9-S),
+a truncated protein isoform of 222 amino acids [32].
+The 481-amino acid C9-L isoform is the most abundant. In mouse tissues and the
+human brain, C9ORF72 is predominantly cytoplasmic, with punctate staining in neurites,
+indicative of synaptic terminals. C9ORF72 also plays a role in stress granule (SG) formation
+and degradation [33]. Stress granules (SGs) are membraneless ribonucleoproteins that
+contain mRNA and accumulate in the cytoplasm when translation initiation is halted,
+disappearing once stress is alleviated [34]. Upon stress-related stimuli, C9-L is recruited
+to SGs. In the absence of C9ORF72, these granules fail to form, and other SG-associated
+proteins like TIA-1, G3BP1, and HuR are downregulated. C9ORF72 is also crucial for
+cellular recovery post-stress, as it interacts with p62 to target SGs for autophagy-mediated
+degradation [35].
+Moreover, C9-L interacts with SMCR8 through its DENN (differentially expressed
+in normal cells and neoplasia) domain, and when the C9-L-SMCR8 complex associates
+with WDR41, it functions as a GTPase-activating protein potentially involved in membrane
+trafficking, including endolysosomal pathways and autophagy [36]. The loss of C9ORF72
+in mice and motor neurons derived from iPSCs leads to synaptic plasticity alterations
+and defects in glutamate receptor homeostasis [37]. Recent studies have also implicated
+C9ORF72 in regulating neuronal nucleocytoplasmic transport by disrupting interactions
+between importin β1 and nucleoporin [38].
+According to a study conducted by Celona et al., the expansion of a six-nucleotide
+GGGGCC repeat in the first intron of the C9ORF72 gene is the most prevalent inherited
+cause of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). These
+repeated sequences in RNA can aggregate within cells and are translated through a mech-
+anism called repeat-associated non-AUG (RAN) translation, producing dipeptide-repeat
+(DPR) proteins that are highly toxic. The study reveals that the zinc finger RNA-binding
+protein Zfp106 plays a critical role in counteracting these harmful effects. Zfp106 was
+
+Int. J. Mol. Sci. 2024, 25, 9966
+5 of 21
+shown to prevent the formation of RNA foci, substantially decrease RAN translation driven
+by GGGGCC repeats, and inhibit the accumulation of toxic DPRs in cells derived from
+C9ORF72 patients. Additionally, the study found that Zfp106 binds to RNA G-quadruplex
+structures, inducing a change in their conformation. This binding appears to be a key
+factor in Zfp106’s ability to mitigate the cytotoxic effects associated with GGGGCC repeats,
+highlighting its potential as a therapeutic target for C9ORF72-linked ALS and FTD [39].
+There is widespread agreement that the arginine-rich dipeptide repeats (DPRs), specif-
+ically glycine-arginine (GR) and proline-arginine (PR), exhibit the highest neurotoxicity
+across multiple model systems [40]. Due to the growing interest in these arginine-rich
+DPRs, there has been a greater focus on PR, GR, or both, compared to other DPRs. Conse-
+quently, several mechanisms have been associated with PR and GR expression, including
+nucleocytoplasmic transport [41,42], DNA damage [43,44], translational disruption [45],
+and stress granule dysfunction [46]. Drosophila models have been particularly valuable
+in elucidating these toxic mechanisms, which have subsequently been validated in mouse
+models, induced pluripotent stem cells (iPSCs), and patient tissues.
+Recent advancements with fly models continue to prioritize research on repeat-
+associated non-AUG (RAN) translation and DPRs, given their role in C9orf72 hexanu-
+cleotide repeat expansions. Factors regulating RAN translation are under investigation,
+with a proposed mechanism of DPR-induced toxicity in C9orf72-associated neurodegenera-
+tion involving inhibited translation through interactions between ribosomal proteins and
+DPRs, specifically poly-GR and poly-PR.
+Emerging evidence indicates that the three primary hypotheses regarding DPR toxicity
+are not mutually exclusive. For example, one study demonstrated that reduced C9orf72
+activity heightens susceptibility to degenerative stimuli, such as glutamate-induced excito-
+toxicity and impaired DPR clearance [47]. Essentially, haploinsufficiency intensifies toxic
+gain-of-function effects, a finding supported by studies showing that C9orf72 reduction
+suppresses autophagy, leading to DPR accumulation and neuronal death [48,49].
+Research on autophagy in Drosophila C9orf72 models has shown that, in motor neu-
+rons, 30-repeat DPRs disrupt the morphology and dynamics of the endoplasmic reticulum
+(ER), impairing autophagosome formation. Despite ER disruption in both axons and
+synapses, autophagosomes remained intact in axons, although their biogenesis was hin-
+dered at synaptic terminals [50].
+Motor neurons can also be analyzed for synaptic dysfunction. A recent study using
+Drosophila C9orf72 revealed a novel cell-autonomous excitotoxicity mechanism selectively
+associated with arginine-rich DPRs in glutamatergic neurons. These DPRs—poly-GR and
+poly-PR—exhibited moderate toxicity at 36 repeats, increasing synaptic boutons, active
+zones, extracellular glutamate, intracellular calcium, and presynaptic NMDA receptor
+activation [51]. This suggests a pathway to neurodegeneration via glutamate excitotox-
+icity and synaptic overgrowth, which was presynaptic NMDA receptor-dependent and,
+therefore, cell-autonomous. More toxic 100-repeat DPRs led to the loss of active zones,
+indicating severe neurodegeneration through synaptic degeneration [51]. These findings
+support the potential of glutamate inhibition therapies and underscore the need for further
+investigation into synaptic dysfunction in C9orf72-FTD pathology.
+4.2. TDP-43
+TAR DNA-binding protein 43 (TDP-43) is a vital RNA/DNA-binding protein involved
+in various aspects of RNA metabolism, including transcription, splicing, and transport. In
+amyotrophic lateral sclerosis (ALS), TDP-43 is primarily associated with its pathological
+forms. In ALS, TDP-43 mislocalizes from the nucleus to the cytoplasm, where it forms
+insoluble and ubiquitinated inclusions. These pathological aggregates are a hallmark of
+both ALS and frontotemporal lobar degeneration (FTLD). The misfolding and aggregation
+of TDP-43 are driven by mutations in the TARDBP gene, post-translational modifications
+such as phosphorylation and ubiquitination, and its tendency to form amyloid-like fibrils.
+This mislocalization disrupts RNA processing and cellular homeostasis, leading to neu-
+
+Int. J. Mol. Sci. 2024, 25, 9966
+6 of 21
+ronal toxicity. Understanding the mechanisms underlying TDP-43 pathology is crucial for
+developing targeted therapies for ALS [52,53].
+A proposed model for TDP-43 toxicity utilizing Drosophila suggests that the cyto-
+plasmic accumulation of human TDP-43 (hTDP-43) in adult flies is sufficient to induce
+degeneration. This finding aligns with other models of toxicity related to the mislocalization
+of ALS-associated genes. Additionally, the study observed that the knockdown of TBPH,
+the Drosophila homolog of TDP-43, did not produce any phenotypic changes, indicating
+that a toxic gain of function due to cytoplasmic TDP-43 may contribute to pathogenesis.
+However, this hypothesis remains uncertain, as a loss of nuclear TDP-43 function might
+also play a role in the development of the disease [54].
+Another proposed model of toxicity in Drosophila involves mitochondrial dysfunction.
+In transgenic flies expressing human TDP-43 (hTDP-43) induced by heat shock through the
+Elav-Gal4 pan-neuronal driver, the mitochondria in the eye exhibited a marked reduction
+in size compared to controls. Additionally, 85% of the mitochondria in the photoreceptors
+of hTDP-43-expressing flies displayed swollen or vesicular cristae. This damage to the
+mitochondrial cristae mirrors that observed in the brain tissues of patients with hTDP-
+43 proteinopathy, underscoring the utility of Drosophila as a model for studying this
+gene. Given that mitochondria are a known source of reactive oxygen species (ROS),
+mitochondrial dysfunction can lead to ROS accumulation, negatively impacting neuronal
+survival and function. Elevated levels of mitochondrial ROS were detected in hTDP-43-
+expressing motor neurons in Drosophila via confocal imaging, suggesting that hTDP-43
+expression in motor neurons induces mitochondrial dysfunction and may contribute to
+oxidative stress [55].
+4.3. SOD1
+The SOD1 gene (encoding superoxide dismutase 1 [Cu/Zn]) was the first to be linked
+to ALS in 1993 [56]. SOD1 encodes a metalloenzyme composed of 153 amino acids and
+is one of three superoxide dismutase enzymes in humans. This protein binds copper and
+zinc and forms a highly stable homodimer. SOD1 dimers are located in the cytosol and
+the intermembrane space of mitochondria, playing a crucial role in antioxidant defense by
+catalyzing the conversion of superoxide radicals, produced during cellular respiration, into
+oxygen and hydrogen peroxide [57].
+Superoxide dismutase 1 (SOD1) is crucial in the pathogenesis of amyotrophic lateral
+sclerosis (ALS). Mutations in the SOD1 gene are a primary genetic cause of familial ALS,
+accounting for approximately 20% of these cases. These mutations result in the misfolding
+and aggregation of the SOD1 protein, which is highly toxic to motor neurons. The toxic
+effects are believed to arise from a combination of factors, including oxidative stress,
+mitochondrial dysfunction, and disruption of protein homeostasis. Mutant SOD1 proteins
+can form aggregates that interfere with cellular processes, disrupt mitochondrial function
+by localizing to the outer mitochondrial membrane, and induce apoptosis. Additionally,
+the presence of misfolded SOD1 has been shown to enhance the aggregation of other ALS-
+associated proteins, such as TDP-43, further amplifying the neurodegenerative process.
+Understanding SOD1’s role in ALS has been pivotal for developing targeted therapies
+aimed at reducing oxidative stress and improving mitochondrial function to slow disease
+progression [58].
+Drosophila melanogaster models have been pivotal in elucidating the role of the
+SOD1 gene in amyotrophic lateral sclerosis (ALS). As the first gene linked to familial ALS
+(fALS), SOD1 encodes the antioxidant enzyme superoxide dismutase-1. By leveraging
+genetic tools to express human SOD1 (hSOD1) and its ALS-associated mutations in specific
+Drosophila tissues, researchers have uncovered key insights into the disease’s mechanisms.
+These models demonstrate that hSOD1 mutations can trigger both loss of function (LOF)
+and toxic gain of function (GOF) effects, leading to neurodegeneration characterized by
+motor dysfunction, reduced lifespan, and synaptic abnormalities. Notably, despite severe
+phenotypes such as developmental defects and impaired locomotion, these models often
+
+Int. J. Mol. Sci. 2024, 25, 9966
+7 of 21
+lack significant neuronal death, differing from vertebrate observations. This highlights
+the complexity of SOD1-linked ALS and underscores the value of Drosophila in studying
+the disease’s molecular and cellular underpinnings. Additionally, these models have been
+instrumental in screening potential therapeutic compounds, identifying agents that may
+alleviate the neurotoxic effects of mutant SOD1 [59].
+Moreover, a study conducted by Liguori et al. (2024), utilizing Drosophila models
+expressing the human mutant SOD1 genes (A4V and G85R), demonstrated that these
+mutations lead to reduced survival and impaired motor performance, concurrently with
+the induction of early neuroinflammatory markers, such as the glial marker Repo, and the
+upregulation of immune pathways involving antimicrobial peptides (AMPs). Moreover,
+the study shed light on the heightened oxidative stress and the presence of chromosome
+aberrations, indicating that genomic instability and altered cellular homeostasis represent
+some of the most important moments in the early stages of ALS pathogenesis. These
+findings challenge the prevailing notion that motor neuron degeneration is the primary
+initiating factor in ALS, instead emphasizing the possibility that early neuroinflammation
+and oxidative stress may precede and potentially precipitate the cascade of neuronal
+damage, thereby suggesting new opportunities for early therapeutic intervention [60].
+Furthermore, a study conducted by Scaricamazza et al [61]. showed that endurance
+exercise in female mice can lead to the aggravation of the SOD1-G93A ALS onset since it
+induces a more oxidative phenotype in muscle fibers, exacerbating muscle denervation,
+and promoting motor neuron loss. Additionally, due to increased immune cell infiltration
+in the sciatic nerve, the progression of ALS is accelerated. Therefore, despite the fact that
+physical exercises are a healthy habit, endurance exercises represent risk factors when it
+comes to ALS [61].
+4.4. FUS
+FUS encodes a universally expressed protein of 526 amino acids, part of the FET
+family of RNA-binding proteins. Under normal conditions, FUS is mainly located in
+the nucleus but can move to the cytoplasm, where it plays a role in nucleocytoplasmic
+transport [62,63]. FUS has several roles similar to TDP-43, including involvement in
+gene expression, transcription, pre-mRNA splicing, RNA transport, and regulation of
+translation [64]. However, despite these similarities, TDP-43 and FUS target different RNAs
+and have unique sequence binding specificities [65].
+As of now, researchers have identified more than 50 distinct variants of the FUS
+gene that are linked to autosomal dominant forms of ALS. The majority of these genetic
+alterations are missense mutations, which involve single amino acid changes. However,
+there have also been less common cases where insertions, deletions, splicing errors, or
+nonsense mutations have been observed in patients. These various mutations contribute to
+the diversity of genetic presentations seen in ALS associated with FUS gene anomalies [66].
+Many pathogenic variants are located within the nuclear localization signal, leading to the
+mislocalization of FUS to the cytoplasm. Other mutations occur in regions rich in glycine
+and arginine, the prion-like domain, and the 3′ untranslated region (3′UTR) [67]. Some
+variants in these regions increase the likelihood of the protein forming solid aggregates,
+indicating multiple pathogenic mechanisms in FUS-related ALS [68].
+RNA homeostasis, or “ribostasis”, is as essential as proteostasis. Disruptions in RNA
+metabolism can cause toxicity in various ways, some of which are linked to proteostasis.
+As per the central dogma of molecular biology, RNA acts as the “messenger” between
+DNA and the protein synthesis machinery, implicating RNA in the pathogenicity of protein
+misfolding diseases like ALS. However, RNA’s lifecycle is complex, involving numerous
+regulatory RNA-binding proteins (RBPs) that play crucial roles in RNA transport, post-
+transcriptional editing, translation, and degradation [69]. Furthermore, RNA and RBPs
+can form membraneless organelles called ribonuclear protein (RNP) granules, which are
+vital for RNA metabolism and gene regulation [70]. The functions of these RNP granules
+vary depending on the specific RNA and RBPs they contain. Recent studies have focused
+
+Int. J. Mol. Sci. 2024, 25, 9966
+8 of 21
+on particular RNPs, such as stress granules and paraspeckles, both of which have been
+implicated in ALS pathogenesis. The role of stress granules, in particular, has been debated
+as a key factor in ALS-related aggregation. However, since ALS can develop independently
+of stress granules, they will not be further examined here as a therapeutic target, though
+they have been reviewed in other works [71–74].
+The regulation and maintenance of RNA pathways via RBPs and RNP granules are
+crucial for cellular homeostasis. Notably, several strong genetic links to ALS have been
+found in RNA metabolism pathways, including mutations in C9ORF72, SOD1, TDP-43, and
+FUS. These mutations and others underscore the importance of RNA production, editing,
+and localization in the onset of ALS, providing convincing evidence that deregulated RNA
+metabolism plays a significant role in the disease. The following sections will emphasize the
+significance of RBPs and RNP granule formation in ALS and their potential as therapeutic
+targets to restore proper RNA metabolism and proteostasis in ALS patients [75,76] (Table 1).
+Table 1. Summary table of the genes described.
+Gene
+Aspect
+Details
+C9ORF72
+Hexanucleotide Repeat Expansion
+Located in the first intron of the
+C9orf72 gene
+C9ORF72
+Pathogenic Repeat Size
+Unknown, but a cutoff of 30 repeats is
+used in studies
+C9ORF72
+Healthy Individuals Repeat Size
+Typically fewer than 11 repeats
+C9ORF72
+Patient Repeat Size
+Several hundreds to thousands, some
+with 45−80 repeats
+C9ORF72
+Repeat Expansion Contribution in ALS
+40% of familial ALS (FALS), 8% of
+sporadic ALS (SALS)
+C9ORF72
+Repeat Expansion Contribution in FTD
+30% of familial FTD (FFTD)
+C9ORF72
+Cell Type Expression Distribution
+High in myeloid cells, lower in
+lymphoid cells and other tissues
+C9ORF72
+Primary Organs of Expression
+Mainly in brain, spinal cord, immune
+system; lower in lungs, heart, liver,
+kidney, skeletal muscle
+C9ORF72
+mRNA Isoforms
+Three isoforms (V1−V3)
+C9ORF72
+Proteins Encoded
+C9ORF72-long (C9-L),
+C9ORF72-short (C9-S)
+C9ORF72
+Abundant Isoform
+C9-L (481 amino acids)
+C9ORF72
+Protein Localization
+Predominantly cytoplasmic with
+punctate staining in neurites
+C9ORF72
+Function in Stress Granules
+Involved in formation and degradation
+C9ORF72
+Protein Interaction (SMCR8)
+Interacts through its DENN domain,
+involved in membrane trafficking
+and autophagy
+C9ORF72
+Implication in
+Neurodegenerative Disorders
+Linked to ALS, FTD, and potential other
+neurodegenerative disorders
+TDP-43
+RNA Metabolism and Aggregation
+RNA-binding, mislocalization,
+aggregation, and neurotoxicity in ALS
+SOD1
+Oxidative Stress and
+Mitochondrial Dysfunction
+Mutations lead to oxidative stress,
+protein misfolding, and mitochondrial
+dysfunction in ALS
+FUS
+Nucleocytoplasmic Transport
+and Aggregation
+Mutations disrupt RNA metabolism,
+protein mislocalization, and aggregation
+To elucidate the functions of FUS, research has concentrated on the role of the cabeza
+(caz) gene, which is the sole ortholog of FUS in Drosophila [77]. The caz1 mutants were
+found to be morphologically normal but exhibited a defect in adult eclosion. The resulting
+adult escapers demonstrated a reduced lifespan and impaired locomotion [78]. Overex-
+
+Int. J. Mol. Sci. 2024, 25, 9966
+9 of 21
+pression of FUS in the nervous system of caz1 mutants in Drosophila was able to rescue
+the eclosion defect and restore both lifespan and locomotor function. However, the expres-
+sion of mutated forms of FUS (P525L and R522G) affected the survival of caz1 mutants to
+adulthood without influencing lifespan or locomotion in adults [78].
+RNA interference (RNAi) lines used to knock down caz gene expression in neurons
+showed that caz silencing did not impact lifespan but did impair climbing performance [79].
+Knockdown of caz in the eye led to a rough eye phenotype resulting from apoptotic cells in
+the pupal retina; this phenotype could be rescued by the expression of the anti-apoptotic
+protein p35 [80]. The generation of new caz null mutants and conditional alleles using ho-
+mologous recombination confirmed the previously observed phenotypes of pupal lethality
+and locomotor defects [81]. These findings support the essential role of caz in neural devel-
+opment and provide evidence in favor of the loss-of-function (LOF) hypothesis to explain
+FUS-induced neurodegeneration in amyotrophic lateral sclerosis (ALS). Gain-of-function
+(GOF) of caz resulted in phenotypes similar to those observed with FUS overexpression,
+including impaired larval locomotion, reduced synaptic bouton number, and severe eye
+degeneration [82]. Additionally, both caz and FUS GOF induced apoptosis when expressed
+in motorneurons [79].
+These findings further support (i) the concept of evolutionary conservation between
+caz and FUS and (ii) the pivotal role of FUS expression levels in triggering the neurodegener-
+ative process [78,83,84]. Therefore, a deeper understanding of the physiological functions of
+FUS and its various interacting partners is crucial for elucidating the mechanisms involved
+in this pathology.
+5. Clinical Presentation and Diagnosis
+5.1. Symptoms: Initial Signs and Progression of ALS Symptoms
+ALS presents with a diverse range of clinical features. The key characteristic is the
+coexistence of upper and lower motor neuron signs and symptoms. Upper motor neuron
+(UMN) findings include hyperreflexia, poor dexterity, incoordination, and spasticity. Com-
+mon bulbar UMN findings are dysarthria and dysphagia. Lower motor neuron (LMN)
+findings include muscle atrophy and fasciculations [85]. Weakness, a central feature, can
+result from dysfunction in either upper or lower motor neurons. The initial presentation
+influences the pattern of symptom progression and has prognostic significance. Most
+patients initially present with asymmetric LMN symptoms localized to the arm or leg [86].
+Common early clinical signs include hand weakness, shoulder girdle weakness, and foot
+drop. Bulbar-onset ALS, which occurs in 25% of patients, typically presents with dysarthria
+and dysphagia. A minority of patients initially present with respiratory muscle weakness
+or generalized weakness combined with bulbar muscle weakness [87].
+In patients who develop cognitive symptoms, impaired word fluency is an early
+finding. Other features of executive dysfunction, such as mental inflexibility, inattention,
+disinhibition, or difficulty in planning or problem-solving, can emerge as the disease
+progresses [88]. Impairment in multiple cognitive domains is less common in ALS and,
+when present, usually involves language or memory and may be confounded by co-
+pathologies such as Alzheimer’s disease [89].
+Behavioral abnormalities are a frequent neuropsychiatric feature in ALS, with apathy
+being the most common. Other behavioral changes include disinhibition, perseverative
+behavior, altered food preferences, loss of empathy, and impaired social cognition, including
+emotional processing [90,91]. Pathological crying and laughing, also known as emotional
+lability or pseudobulbar affect, is present in approximately one-third of patients with ALS
+and is associated with gray and white matter pathology in the cortico-cerebellar network.
+Pathological crying and laughing do not correlate with neuropsychological measures and
+should be distinguished from other cognitive and behavioral symptoms [92–94].
+
+Int. J. Mol. Sci. 2024, 25, 9966
+10 of 21
+5.2. Diagnostic Criteria: Revised El Escorial Criteria and Other Diagnostic Tools
+Diagnosing ALS is based on the El Escorial criteria. According to these criteria,
+diagnosis requires a history of progressive weakness spreading within a region or to
+other regions, such as the bulbar region (affecting speech and swallowing), cervical region
+(affecting the upper limbs), thoracic region (affecting the chest wall and abdominal muscles),
+or lumbar region (affecting the lower limbs). There must be evidence of lower motor neuron
+involvement (indicated by specific symptoms or denervation on electromyography) and
+upper motor neuron involvement (indicated by specific symptoms and brisk deep tendon
+reflexes) [95].
+The development of the Awaji criteria, which stemmed from a revised algorithm
+for the clinical neurophysiological assessment in diagnosing ALS, formulated through a
+consensus among experts and grounded in the existing literature, has been criticized for
+potentially possessing several limitations [96].
+The Awaji criteria proposed that neurophysiological indicators of lower motor neuron
+(LMN) dysfunction should be considered equivalent to clinical signs of LMN involve-
+ment, while the assessment of upper motor neuron (UMN) dysfunction remained reliant
+on clinical evaluation. Compared to the revised El Escorial criteria (rEEC), the Awaji
+criteria demonstrated increased sensitivity in several studies [97,98]. However, some stud-
+ies reported lower sensitivities [99,100], a discrepancy attributed to the exclusion of the
+probable-laboratory-supported diagnostic category. Notably, the diagnostic advantage of
+the Awaji criteria was found to be most significant in cases of bulbar-onset ALS [96].
+The use of the Awaji algorithm eliminates the somewhat artificial distinction between
+clinically definite ALS and EMG definite ALS, as it integrates the clinical and electrophysi-
+ological diagnostic processes, treating them as complementary rather than independent
+assessments [98].
+In September 2019, an assembly of international neurologists convened in Gold Coast,
+Australia, with the objective of deconstructing and simplifying the diagnostic process for
+amyotrophic lateral sclerosis (ALS). The resulting Gold Coast criteria for ALS diagnosis
+require evidence of progressive motor impairment, which must be documented through
+patient history or repeated clinical assessments, following an initial period of normal motor
+function. Additionally, there must be evidence of both upper and lower motor neuron
+dysfunction within at least one body region. If dysfunction is confined to a single region,
+both upper and lower motor neuron impairments must be present in that region. In cases
+involving multiple regions, lower motor neuron dysfunction must be evident in at least two
+regions. Furthermore, the exclusion of other disease processes must be achieved through
+appropriate investigations tailored to the clinical presentation [101].
+The criteria specify that upper motor neuron dysfunction is characterized by at least
+one of the following: increased deep tendon reflexes, the presence of pathological reflexes
+(such as the Hoffman or Babinski signs), increased muscle tone (spasticity), or slowed
+and poorly coordinated voluntary movements not attributable to lower motor neuron
+weakness or Parkinsonian features. In contrast, lower motor neuron dysfunction requires
+either clinical evidence of muscle weakness and wasting or electromyography (EMG)
+abnormalities. These EMG findings must indicate chronic neurogenic changes, such as
+large motor unit potentials, and evidence of ongoing denervation, which may manifest as
+fibrillation potentials or positive sharp waves [102].
+The body regions relevant to the diagnosis are defined as bulbar, cervical, thoracic,
+and lumbosacral. A region is classified as involved if there are abnormalities in two
+limb muscles innervated by different roots and nerves or if there are abnormalities in
+a single bulbar or thoracic muscle. Appropriate diagnostic investigations may include
+nerve conduction studies, needle EMG, imaging techniques (such as magnetic resonance
+imaging), biofluid analysis, or other modalities deemed clinically necessary [101].
+Amyotrophic Lateral Sclerosis (ALS) diagnosis is classified into four categories based
+on specific criteria. Definite ALS is identified by the presence of upper motor neuron
+(UMN) and lower motor neuron (LMN) signs in three anatomical regions. Probable ALS is
+
+Int. J. Mol. Sci. 2024, 25, 9966
+11 of 21
+diagnosed when UMN and LMN signs are present in at least two regions, with UMN signs
+rostral to LMN signs. Probable ALS, laboratory-supported, involves the presence of UMN
+and LMN signs in one region with electromyographic (EMG) evidence of LMN involvement
+in another region. Lastly, Possible ALS is characterized by the presence of UMN and LMN
+signs in one region or UMN signs in two or three regions, which may include conditions
+such as monomelic ALS, progressive bulbar palsy, and primary lateral sclerosis.
+There is an average delay of 10–16 months from the onset of a patient’s symptoms to
+the confirmation of the diagnosis. The absence of a definitive biological marker for ALS,
+the highly variable initial clinical presentations of the disease, and its pathogenic overlap
+with several neurodegenerative disorders all contribute to the difficulty in diagnosing ALS
+with acceptable certainty [103].
+Moreover, we should also take into account the importance of ALS staging. Two of
+the most important staging systems are represented by MiTo and King’s [104,105].
+The King’s Clinical Staging System and the Milano-Torino (MiToS) Functional Staging
+System represent two distinct approaches for assessing the progression of amyotrophic
+lateral sclerosis (ALS). The King’s staging system divides ALS into five stages, which are
+determined by the extent of clinical involvement and its impact on feeding or respiratory
+function. Stage 1 denotes the onset of symptoms, while Stage 5 corresponds to death.
+Although the King’s staging is not directly derived from the ALS Functional Rating Scale-
+Revised (ALSFRS-R), there is a 92% concordance when estimating stages from ALSFRS-R
+scores. This system is primarily concerned with the anatomical spread of the disease and
+significant respiratory muscle involvement, providing greater specificity in distinguishing
+stages during the early to mid-phases of ALS.
+Conversely, the MiToS staging system comprises six stages, from 0 to 5, based on
+functional abilities as measured by the ALSFRS-R. Stage 0 reflects normal function, whereas
+Stage 5 represents death. The MiToS system is specifically designed to evaluate the func-
+tional capabilities affected by ALS, with a particular focus on the later stages of the disease
+due to its emphasis on the functional burden.
+While these two staging systems differ in their approaches, they are complementary
+rather than redundant, each offering unique perspectives on disease progression. The
+King’s system provides a more detailed resolution of disease spread in the early to mid-
+stages, emphasizing clinical and anatomical progression, while the MiToS system offers
+a more nuanced evaluation of functional impairment in the later stages. Therefore, em-
+ploying both staging systems together is recommended to achieve a more comprehensive
+understanding of ALS progression [104,105].
+Moreover, recent advancements in neuroimaging, including advanced computational
+methods and diffusion tensor imaging (DTI), have significantly improved the capacity
+to detect subtle alterations in brain structure and function. These technological devel-
+opments enable a more detailed characterization of gray and white matter damage in
+patients, thereby facilitating the distinction between various subtypes of amyotrophic lat-
+eral sclerosis (ALS) and monitoring disease progression. For instance, novel MRI techniques
+have demonstrated the potential to differentiate between faster and slower-progressing
+ALS cases by analyzing patterns of cortical thinning, white matter integrity, and specific
+neuroanatomical changes associated with distinct clinical phenotypes [106].
+5.3. Differential Diagnosis: Distinguishing ALS from Other Motor Neuron Diseases
+and Conditions
+For patients with predominant upper motor neuron (UMN) involvement, conditions
+such as cervical radiculomyelopathy, hereditary spastic paraplegia, adrenomyeloneuropa-
+thy, and cerebrotendinous xanthomatosis should be considered. If only lower motor neuron
+(LMN) features are present, diagnoses like plexopathy, peripheral neuropathy (e.g., mul-
+tifocal motor neuropathy with conduction block, chronic inflammatory demyelinating
+polyneuropathy, infectious neuropathy), or myopathies (e.g., inclusion body myositis)
+should be ruled out. Flail arm ALS needs to be distinguished from conditions such as
+
+Int. J. Mol. Sci. 2024, 25, 9966
+12 of 21
+spinal muscular atrophy, Kennedy’s disease, multifocal motor neuropathy, and monomelic
+amyotrophy. In cases of focal onset neck extensor weakness, myasthenia gravis and fo-
+cal myopathy should be considered. Muscle-specific tyrosine kinase (MuSK) myasthenia
+can present with tongue weakness and atrophy, potentially being mistaken for bulbar
+ALS [107].
+6. Current Therapeutic Approaches
+For many years, Riluzole (6-(trifluoromethoxy)-2-aminobenzothiazole) was the only
+treatment available for ALS patients. The primary goal of this treatment was to reduce
+excitotoxicity, particularly from glutamate. The beneficial effects of Riluzole are believed
+to come from several actions. Firstly, it acts as a sodium channel blocker on presynaptic
+neurons, which decreases the release of glutamate into the synaptic cleft. Additionally, it
+increases glutamate reuptake by activating astrocytic excitatory amino acid transporter
+2 (EAAT2) channels [108,109]. It also noncompetitively inhibits AMPA and N-methyl-D-
+aspartate (NMDA) glutamate receptors on postsynaptic neurons. Finally, Riluzole appears
+to reduce gamma-aminobutyric acid (GABA) reuptake and enhance GABA receptors [110].
+Edaravone, the newest FDA-approved medication for ALS, acts as a powerful an-
+tioxidant and free radical scavenger. While its exact mechanism in treating ALS is not
+completely understood, its antioxidant properties are deemed crucial because oxidative
+stress significantly contributes to the disease’s progression [111].
+Sodium phenylbutyrate/taurursodiol is another approved treatment for ALS, working
+by mitigating cellular stress pathways and promoting nerve cell survival. Patients taking
+this medication have shown a slower decline in daily functioning and increased survival
+rates compared to those on a placebo [112].
+Tofersen, an RNA-based therapy, is approved to reduce the production of the super-
+oxide dismutase type 1 (SOD1) protein by degrading toxic aggregates of SOD1 mRNA
+(superoxide dismutase type-1 messenger ribonucleic acid). Starting Tofersen treatment has
+demonstrated reductions in neurofilament-axonal (nerve) injury, decreased neurodegenera-
+tion, and improved disease outcomes [113,114].
+A study identified the combination of nebivolol and donepezil (nebivolol-donepezil)
+as a potential treatment for ALS by examining genetic information from ALS patients and
+pharmacogenomic data from the drug. The findings revealed that nebivolol-donepezil
+significantly reduced cytokine levels in microglial cell lines, inhibited nuclear factor-κB
+nuclear translocation in HeLa cells, protected against excitotoxicity-induced neuronal loss
+by modulating the PI3K-Akt pathway, and promoted the differentiation of neural precursor
+cells into motor neurons [115].
+PXT864, a low-dose combination of aminocaproate and baclofen, has shown the ability
+to protect neuromuscular junctions and maintain motor neuron integrity in glutamatergic-
+injured primary neuron-muscle models, suggesting it could be a promising therapeutic
+strategy for ALS [116]. These findings indicate that combination therapies may help slow
+the progression of ALS, improve patients’ quality of life, and extend their life expectancy,
+making them highly promising treatment options.
+Another therapeutic strategy that has gained renewed interest involves targeting
+muscle abnormalities in ALS. One rationale is neuroprotective, suggesting that changes
+in muscle and neuromuscular junctions may contribute to retrograde degeneration, as
+indicated by recent research on the role of muscle-secreted toxic exosomes in motor neuron
+degeneration [117]. The second approach focuses on symptom relief by increasing muscle
+contractility. This includes the development of two troponin activators, tirasemtiv [118,119]
+and reldesemtiv (NCT04944784), aimed at enhancing muscle contractility. Additionally,
+there are efforts to improve muscle mass and strength [120].
+For frontotemporal dementia (FTD) or amyotrophic lateral sclerosis (ALS) associated
+with the C9orf72 expansion, structural and functional MRI studies indicate that subcortical
+structures, particularly the thalamus, are more likely to be affected compared to sporadic
+cases. Patients with FTD resulting from GRN or TBK1 mutations have been reported to
+
+Int. J. Mol. Sci. 2024, 25, 9966
+13 of 21
+exhibit prominently asymmetric atrophy, which is most noticeable in the later stages of
+the disease. In comparison to sporadic ALS, C9orf72-associated ALS demonstrates more
+extensive frontotemporal involvement, even in the absence of cognitive or behavioral
+symptoms. Additionally, many SOD1 variants are linked to more pronounced cervical
+spinal cord atrophy, with a relative preservation of cortical motor networks [121].
+7. Emerging Therapies and Future Directions
+7.1. Gene Therapy: Advances in Gene Editing and Antisense Oligonucleotides
+Gene therapy for ALS is a promising approach that targets genetic mutations in SOD1,
+C9ORF72, TARDBP, and FUS. Various strategies have been developed to address these
+genetic abnormalities, including antisense oligonucleotides (ASOs) and RNA interference
+(RNAi) to degrade or inhibit abnormal mRNA, as well as gene delivery via viral vectors
+to replace defective genes. For example, ASOs targeting the SOD1 gene have shown
+effectiveness in reducing toxic protein levels in preclinical studies and have advanced to
+clinical trials. Tofersen, an ASO against SOD1 mRNA, demonstrated safety and tolerability
+in phase 1 trials, with phase 3 trials currently underway to confirm its ability to slow disease
+progression. Similarly, CRISPR/Cas9 technology has been used to correct mutations in
+genes like FUS, showing potential in preclinical models to restore normal function and
+reduce disease symptoms. These advancements underscore the significant potential of gene
+therapy to alter the course of ALS, though further research and clinical trials are needed to
+ensure long-term efficacy and safety [85,122,123].
+7.2. Stem Cell Therapy: Potential of Stem Cell Treatments in ALS
+Astrocytes and microglia play essential roles in ALS pathogenesis by promoting
+neuroinflammation. In the brain and spinal cord, these cells interact with neurons and with
+each other, influencing disease progression. Human induced pluripotent stem cells (hiPSCs)
+offer a valuable platform for studying ALS, providing insights into disease mechanisms
+across all genotypes and aiding in modeling sporadic cases. hiPSCs enable the development
+of high-throughput genetic and chemical screens [124]. Protocols for differentiating hiPSCs
+into astrocytes have been established for over a decade, while protocols for hiPSC-derived
+microglia have emerged more recently [125]. These protocols aim to mimic microglial
+development, distinct from blood macrophages, as microglia originate from yolk sac-
+derived progenitors [126,127]. Despite their potential, challenges remain in modeling ALS
+with hiPSCs. Simplified hiPSC-derived monocultures allow the study of cell-autonomous
+effects, but understanding non-cell-autonomous disease mechanisms requires modeling
+interactions between neurons and glia. Co-cultures of hiPSC-derived neurons and glia
+support glial maturation and have been used to study ALS patient-derived cells [128].
+More complex in vitro models incorporating multiple cell types would be ideal.
+For example, ezogabine, a potassium channel activator, reduced neuronal excitability
+in SOD1 and C9ORF72 hiPSC models, leading to a phase 2 clinical trial that showed
+decreased motor neuron excitability [129]. Similarly, the src/c-Abl inhibitor bosutinib
+improved hiPSC-derived motor neuron survival and muscle contractions in ALS models
+and is currently in clinical trials. Ropinirole, a dopamine agonist, showed positive effects in
+hiPSC-derived motor neurons from patients with TARDBP, FUS mutations, and sporadic
+ALS, leading to a phase I/IIa clinical trial [130]. Stem cell therapy holds promise for ALS
+treatment. hiPSCs allow the study of disease-specific mutations and their effects on neural
+cells, aiding in understanding ALS pathogenesis and testing therapies. Advances in gene
+editing, like CRISPR/Cas9, have furthered these studies. Despite challenges in achieving
+full cell maturation, hiPSC-based models continue to provide valuable insights and hold
+potential for developing effective ALS treatments.
+
+Int. J. Mol. Sci. 2024, 25, 9966
+14 of 21
+8. Biomarkers for Early Detection and Progression: Recent Developments in
+Biomarker Research
+8.1. Neurofilaments
+Neurofilaments are among the most widely characterized fluid biomarkers in neu-
+rodegenerative diseases. Found only in neurons, these intermediate, filamentous proteins
+form part of the cytoskeletal structure and are particularly abundant in myelinated ax-
+ons [131]. Released into the interstitial fluid during neuroaxonal injury and easily measured
+in cerebrospinal fluid (CSF), neurofilaments especially neurofilament light (NfL) and phos-
+phorylated neurofilament heavy (pNfH) have become markers of neuronal injury and
+degeneration. Consequently, neurofilaments in CSF have been extensively studied as
+diagnostic, prognostic, susceptibility/risk, and response biomarkers for ALS.
+Studies have shown that CSF and blood neurofilament levels are higher in ALS pa-
+tients compared to those with ALS mimics, indicating their usefulness in distinguishing
+between the two groups [132,133]. This evidence suggests that fluid neurofilament concen-
+trations could lead to a quicker and more accurate ALS diagnosis. However, adding other
+biomarkers involved in ALS pathophysiology and ALS mimic syndromes may further
+enhance diagnostic accuracy.
+8.2. Chitinase
+Non-neuronal cells play a role in ALS pathophysiology, with activated microglia and
+astrocytes causing chitinase expression. According to Thompson et al. [134], chitotriosidase-
+1 (CHIT1) and chitinase-3-like protein 2 (CHI3L2/YKL39) could differentiate ALS from
+mimicking conditions, but their diagnostic performance was weaker than neurofilament.
+CHIT1 and CHI3L2 were correlated with the rate of disease progression, and CHIT1 was
+correlated with survival when included in a multivariate model [134]. Another study con-
+ducted by Gille et al. [135] found that CHIT1 and chitinase-3-like protein 1 (CHI3L1/YKL40)
+had low discrimination ability and weak correlation with disease progression; however,
+CHI3L1 was independently associated with survival. A longitudinal study showed that
+CHIT1 and CHI3L1 were linked to the rate of disease progression and, consistent with pre-
+vious findings, their levels remained stable over time [136]. These proteins are promising
+as prognostic and pharmacodynamic biomarkers [137].
+8.3. Niclosamide
+A recent study by Milani et al. (2024) explored the effects of Niclosamide on the
+SOD1 gene mutation in two transgenic murine models, SOD1-G93A and FUS mice, with
+the drug administered intraperitoneally. Niclosamide belongs to the salicylanilide class
+of pharmacologic agents, characterized by an aryl β-hydroxy-carbonyl pharmacophore
+motif, commonly found in many biologically active natural products. Its primary action
+involves the translocation of protons across the mitochondrial membrane, leading to mild
+mitochondrial uncoupling. This mechanism is potent enough to kill tapeworms in the
+gastrointestinal tract while remaining generally well-tolerated by human cells. Milani
+et al. found that in vivo treatment with Niclosamide in 34 male and 20 female mice with
+the SOD1 gene mutation, initiated at symptom onset and continued for approximately
+160 days, and in 32 FUS mice treated for about 40 days, resulted in significant benefits. The
+probability of survival after treatment increased by 40%, and overall survival improved by
+approximately 20%. Additionally, Niclosamide delayed the onset of neuromuscular deficits
+and significantly enhanced muscular strength [138] (Figure 1).
+
+Int. J. Mol. Sci. 2024, 25, 9966
+15 of 21
+ 
+Figure 1. Role of Chitinase as a Biomarker in ALS Pathophysiology. This image illustrates how
+activated microglia and astrocytes in ALS contribute to chitinase expression, which serves as a
+biomarker for disease progression and therapeutic monitoring.
+9. Conclusions
+In summary, this review has provided a detailed overview of amyotrophic lateral
+sclerosis (ALS), covering its epidemiology, pathophysiology, clinical presentation, diag-
+nostic methods, and both current and emerging treatments. The key findings highlight
+the complexity of ALS, with both genetic and environmental factors playing important
+roles in its development. Advances in understanding molecular mechanisms like protein
+misfolding, mitochondrial dysfunction, oxidative stress, and axonal transport defects have
+helped clarify the disease’s progression and potential treatment targets.
+These findings have significant implications for clinical practice. Improved diagnostic
+criteria and the identification of biomarkers can lead to earlier and more accurate diagnoses,
+potentially improving patient outcomes. Current drug treatments offer some benefits but
+highlight the need for more effective therapies. Emerging treatments, such as gene therapy
+and stem cell therapy, provide hope for changing the course of the disease and enhancing
+the quality of life for ALS patients.
+Looking ahead, continued research is crucial to overcoming current challenges, such
+as the variability in disease presentation and the limited effectiveness of existing treatments.
+Further exploration of ALS’s molecular basis and the development of innovative thera-
+peutic strategies are essential. Policymakers and healthcare providers must also consider
+these advancements, ensuring that new therapies are accessible to those in need and that
+healthcare systems support ongoing ALS research and patient care.
+In conclusion, while there has been significant progress in understanding and treating
+ALS, much work remains. The future of ALS research holds promise for more effective
+treatments and, ultimately, a cure for this devastating disease. Collaborative efforts in
+research, clinical practice, and policy will be vital in making these advancements a reality.
+Author Contributions: Conceptualization, R.E.R., A.D. and A.V.C.; validation, A.D., A.-D.C. and H.P.C.;
+formal analysis, R.E.R. and H.P.C.; investigation, A.D. and A.-D.C.; resources, R.E.R.; writing—original
+draft preparation, H.P.C. and A.-D.C.; writing—review and editing, A.-D.C. and A.D.; visualization,
+H.P.C. and A.V.C.; supervision, A.V.C. All authors have read and agreed to the published version of
+the manuscript.
+
+Int. J. Mol. Sci. 2024, 25, 9966
+16 of 21
+Funding: Publication of this paper was supported by the University of Medicine and Pharmacy Carol
+Davila, through the institutional program Publish not Perish.
+Conflicts of Interest: The authors declare no conflict of interest.
+References
+1.
+Ryan, M.; Heverin, M.; McLaughlin, R.L.; Hardiman, O. Lifetime Risk and Heritability of Amyotrophic Lateral Sclerosis. JAMA
+Neurol. 2019, 76, 1367–1374. [CrossRef] [PubMed]
+2.
+Goutman, S.A.; Hardiman, O.; Al-Chalabi, A.; Chió, A.; Savelieff, M.G.; Kiernan, M.C.; Feldman, E.L. Recent advances in the
+diagnosis and prognosis of amyotrophic lateral sclerosis. Lancet Neurol. 2022, 21, 480–493. [CrossRef] [PubMed]
+3.
+Richards, D.; Morren, J.A.; Pioro, E.P. Time to diagnosis and factors affecting diagnostic delay in amyotrophic lateral sclerosis. J.
+Neurol. Sci. 2020, 417, 117054. [CrossRef]
+4.
+Mathis, S.; Goizet, C.; Soulages, A.; Vallat, J.-M.; Masson, G.L. Genetics of amyotrophic lateral sclerosis: A review. J. Neurol. Sci.
+2019, 399, 217–226. [CrossRef]
+5.
+Parobkova, E.; Matej, R. Amyotrophic Lateral Sclerosis and Frontotemporal Lobar Degenerations: Similarities in Genetic
+Background. Diagnostics 2021, 11, 509. [CrossRef] [PubMed]
+6.
+Marin, B.; Fontana, A.; Arcuti, S.; Copetti, M.; Boumédiene, F.; Couratier, P.; Beghi, E.; Preux, P.M.; Logroscino, G. Age-specific
+ALS incidence: A dose–response meta-analysis. Eur. J. Epidemiol. 2018, 33, 621–634. [CrossRef]
+7.
+Mehta, P.; Kaye, W.; Raymond, J.; Punjani, R.; Larson, T.; Cohen, J.; Muravov, O.; Horton, K. Prevalence of Amyotrophic Lateral
+Sclerosis—United States, 2015. MMWR Morb. Mortal. Wkly. Rep. 2018, 67, 1285–1289. [CrossRef]
+8.
+Luna, J.; Diagana, M.; Ait Aissa, L.; Tazir, M.; Ali Pacha, L.; Kacem, I.; Gouider, R.; Henning, F.; Basse, A.; Cisse, O.; et al. Clinical
+features and prognosis of amyotrophic lateral sclerosis in Africa: The TROPALS study. J. Neurol. Neurosurg. Psychiatry 2019, 90,
+20–29. [CrossRef]
+9.
+GBD 2017 US Neurological Disorders Collaborators; Feigin, V.L.; Vos, T.; Alahdab, F.; Amit, A.M.L.; Bärnighausen, T.W.; Beghi, E.;
+Beheshti, M.; Chavan, P.P.; Criqui, M.H.; et al. Burden of Neurological Disorders Across the US from 1990–2017: A Global Burden
+of Disease Study. JAMA Neurol. 2021, 78, 165–176. [CrossRef]
+10.
+Xu, L.; Liu, T.; Liu, L.; Yao, X.; Chen, L.; Fan, D.; Zhan, S.; Wang, S. Global variation in prevalence and incidence of amyotrophic
+lateral sclerosis: A systematic review and meta-analysis. J. Neurol. 2020, 267, 944–953. [CrossRef]
+11.
+Arthur, K.C.; Calvo, A.; Price, T.R.; Geiger, J.T.; Chiò, A.; Traynor, B.J. Projected increase in amyotrophic lateral sclerosis from 2015
+to 2040. Nat. Commun. 2016, 7, 12408. [CrossRef] [PubMed]
+12.
+Gowland, A.; Opie-Martin, S.; Scott, K.M.; Jones, A.R.; Mehta, P.R.; Batts, C.J.; Ellis, C.M.; Leigh, P.N.; Shaw, C.E.; Sreedharan, J.;
+et al. Predicting the future of ALS: The impact of demographic change and potential new treatments on the prevalence of ALS in
+the United Kingdom, 2020–2116. Amyotroph. Lateral Scler. Front. Degener. 2019, 20, 264–274. [CrossRef] [PubMed]
+13.
+Fontana, A.; Marin, B.; Luna, J.; Beghi, E.; Logroscino, G.; Boumédiene, F.; Preux, P.-M.; Couratier, P.; Copetti, M. Time-trend
+evolution and determinants of sex ratio in Amyotrophic Lateral Sclerosis: A dose-response meta-analysis. J. Neurol. 2021, 268,
+2973–2984. [CrossRef]
+14.
+Murphy, N.A.; Arthur, K.C.; Tienari, P.J.; Houlden, H.; Chiò, A.; Traynor, B.J. Age-related penetrance of the C9orf72 repeat
+expansion. Sci. Rep. 2017, 7, 2116. [CrossRef]
+15.
+Chiò, A.; Moglia, C.; Canosa, A.; Manera, U.; D’Ovidio, F.; Vasta, R.; Grassano, M.; Brunetti, M.; Barberis, M.; Corrado, L.; et al.
+ALS phenotype is influenced by age, sex, and genetics: A population-based study. Neurology 2020, 94, e802–e810. [CrossRef]
+[PubMed]
+16.
+Mehta, P.; Raymond, J.; Punjani, R.; Han, M.; Larson, T.; Kaye, W.; Nelson, L.M.; Topol, B.; Muravov, O.; Genson, C.; et al.
+Prevalence of amyotrophic lateral sclerosis in the United States using established and novel methodologies, 2017. Amyotroph.
+Lateral Scler. Front. Degener. 2023, 24, 108–116. [CrossRef] [PubMed]
+17.
+Saceleanu, V.M.; Toader, C.; Ples, H.; Covache-Busuioc, R.-A.; Costin, H.P.; Bratu, B.-G.; Dumitrascu, D.-I.; Bordeianu, A.; Cor-
+latescu, A.D.; Ciurea, A.V. Integrative Approaches in Acute Ischemic Stroke: From Symptom Recognition to Future Innovations.
+Biomedicines 2023, 11, 2617. [CrossRef]
+18.
+Yerbury, J.J.; Ooi, L.; Dillin, A.; Saunders, D.N.; Hatters, D.M.; Beart, P.M.; Cashman, N.R.; Wilson, M.R.; Ecroyd, H. Walking the
+tightrope: Proteostasis and neurodegenerative disease. J. Neurochem. 2016, 137, 489–505. [CrossRef]
+19.
+Pohl, C.; Dikic, I. Cellular quality control by the ubiquitin-proteasome system and autophagy. Science 2019, 366, 818–822.
+[CrossRef]
+20.
+Ciechanover, A.; Kwon, Y.T. Degradation of misfolded proteins in neurodegenerative diseases: Therapeutic targets and strategies.
+Exp. Mol. Med. 2015, 47, e147. [CrossRef]
+21.
+Wang, X.; Fan, H.; Ying, Z.; Li, B.; Wang, H.; Wang, G. Degradation of TDP-43 and its pathogenic form by autophagy and the
+ubiquitin-proteasome system. Neurosci. Lett. 2010, 469, 112–116. [CrossRef] [PubMed]
+22.
+Kirby, J.; Al Sultan, A.; Waller, R.; Heath, P. The genetics of amyotrophic lateral sclerosis: Current insights. DNND 2016, 2016,
+49–64. [CrossRef] [PubMed]
+23.
+Boylan, K. Familial Amyotrophic Lateral Sclerosis. Neurol. Clin. 2015, 33, 807–830. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2024, 25, 9966
+17 of 21
+24.
+Al-Chalabi, A.; Fang, F.; Hanby, M.F.; Leigh, P.N.; Shaw, C.E.; Ye, W.; Rijsdijk, F. An estimate of amyotrophic lateral sclerosis
+heritability using twin data. J. Neurol. Neurosurg. Psychiatry 2010, 81, 1324–1326. [CrossRef] [PubMed]
+25.
+Morgan, S.; Shatunov, A.; Sproviero, W.; Jones, A.R.; Shoai, M.; Hughes, D.; Al Khleifat, A.; Malaspina, A.; Morrison, K.E.; Shaw,
+P.J.; et al. A comprehensive analysis of rare genetic variation in amyotrophic lateral sclerosis in the UK. Brain 2017, 140, 1611–1618.
+[CrossRef]
+26.
+Elden, A.C.; Kim, H.-J.; Hart, M.P.; Chen-Plotkin, A.S.; Johnson, B.S.; Fang, X.; Armakola, M.; Geser, F.; Greene, R.; Lu, M.M.; et al.
+Ataxin-2 intermediate-length polyglutamine expansions are associated with increased risk for ALS. Nature 2010, 466, 1069–1075.
+[CrossRef]
+27.
+Voicu, V.; Brehar, F.-M.; Toader, C.; Covache-Busuioc, R.-A.; Corlatescu, A.D.; Bordeianu, A.; Costin, H.P.; Bratu, B.-G.; Glavan,
+L.-A.; Ciurea, A.V. Cannabinoids in Medicine: A Multifaceted Exploration of Types, Therapeutic Applications, and Emerging
+Opportunities in Neurodegenerative Diseases and Cancer Therapy. Biomolecules 2023, 13, 1388. [CrossRef]
+28.
+Smeyers, J.; Banchi, E.-G.; Latouche, M. C9ORF72: What It Is, What It Does, and Why It Matters. Front. Cell. Neurosci. 2021,
+15, 661447. [CrossRef]
+29.
+Jiang, J.; Ravits, J. Pathogenic Mechanisms and Therapy Development for C9orf72 Amyotrophic Lateral Sclerosis/Frontotemporal
+Dementia. Neurotherapeutics 2019, 16, 1115–1132. [CrossRef]
+30.
+Geng, Y.; Cai, Q. Role of C9orf72 hexanucleotide repeat expansions in ALS/FTD pathogenesis. Front. Mol. Neurosci. 2024,
+17, 1322720. [CrossRef]
+31.
+Sellier, C.; Corcia, P.; Vourc’h, P.; Dupuis, L. C9ORF72 hexanucleotide repeat expansion: From ALS and FTD to a broader
+pathogenic role? Rev. Neurol. 2024, 180, 417–428. [CrossRef] [PubMed]
+32.
+Sattler, R.; Traynor, B.J.; Robertson, J.; Van Den Bosch, L.; Barmada, S.J.; Svendsen, C.N.; Disney, M.D.; Gendron, T.F.; Wong,
+P.C.; Turner, M.R.; et al. Roadmap for C9ORF72 in Frontotemporal Dementia and Amyotrophic Lateral Sclerosis: Report on the
+C9ORF72 FTD/ALS Summit. Neurol. Ther. 2023, 12, 1821–1843. [CrossRef] [PubMed]
+33.
+Yang, Q.; Jiao, B.; Shen, L. The Development of C9orf72-Related Amyotrophic Lateral Sclerosis and Frontotemporal Dementia
+Disorders. Front. Genet. 2020, 11, 562758. [CrossRef] [PubMed]
+34.
+Boncella, A.E.; Shattuck, J.E.; Cascarina, S.M.; Paul, K.R.; Baer, M.H.; Fomicheva, A.; Lamb, A.K.; Ross, E.D. Composition-based
+prediction and rational manipulation of prion-like domain recruitment to stress granules. Proc. Natl. Acad. Sci. USA 2020, 117,
+5826–5835. [CrossRef]
+35.
+Ghasemi, M.; Keyhanian, K.; Douthwright, C. Glial Cell Dysfunction in C9orf72-Related Amyotrophic Lateral Sclerosis and
+Frontotemporal Dementia. Cells 2021, 10, 249. [CrossRef] [PubMed]
+36.
+Pang, W.; Hu, F. Cellular and physiological functions of C9ORF72 and implications for ALS/FTD. J. Neurochem. 2021, 157, 334–350.
+[CrossRef]
+37.
+Bauer, C.S.; Cohen, R.N.; Sironi, F.; Livesey, M.R.; Gillingwater, T.H.; Highley, J.R.; Fillingham, D.J.; Coldicott, I.; Smith, E.F.;
+Gibson, Y.B.; et al. An interaction between synapsin and C9orf72 regulates excitatory synapses and is impaired in ALS/FTD. Acta
+Neuropathol. 2022, 144, 437–464. [CrossRef]
+38.
+McGoldrick, P.; Lau, A.; You, Z.; Durcan, T.M.; Robertson, J. Loss of C9orf72 perturbs the Ran-GTPase gradient and nucleocyto-
+plasmic transport, generating compositionally diverse Importin β-1 granules. Cell Rep. 2023, 42, 112134. [CrossRef]
+39.
+Celona, B.; Salomonsson, S.E.; Wu, H.; Dang, B.; Kratochvil, H.T.; Clelland, C.D.; DeGrado, W.F.; Black, B.L. Zfp106 binds to
+G-quadruplex RNAs and inhibits RAN translation and formation of RNA foci caused by G4C2 repeats. Proc. Natl. Acad. Sci. USA
+2024, 121, e2220020121. [CrossRef]
+40.
+Joviˇci´c, A.; Mertens, J.; Boeynaems, S.; Bogaert, E.; Chai, N.; Yamada, S.B.; Paul, J.W.; Sun, S.; Herdy, J.R.; Bieri, G.; et al. Modifiers
+of C9orf72 dipeptide repeat toxicity connect nucleocytoplasmic transport defects to FTD/ALS. Nat. Neurosci. 2015, 18, 1226–1229.
+[CrossRef]
+41.
+Boeynaems, S.; Bogaert, E.; Michiels, E.; Gijselinck, I.; Sieben, A.; Joviˇci´c, A.; De Baets, G.; Scheveneels, W.; Steyaert, J.; Cuijt, I.;
+et al. Drosophila screen connects nuclear transport genes to DPR pathology in c9ALS/FTD. Sci. Rep. 2016, 6, 20877. [CrossRef]
+42.
+Hayes, L.R.; Duan, L.; Bowen, K.; Kalab, P.; Rothstein, J.D. C9orf72 arginine-rich dipeptide repeat proteins disrupt karyopherin-
+mediated nuclear import. eLife 2020, 9, e51685. [CrossRef] [PubMed]
+43.
+Lopez-Gonzalez, R.; Lu, Y.; Gendron, T.F.; Karydas, A.; Tran, H.; Yang, D.; Petrucelli, L.; Miller, B.L.; Almeida, S.; Gao, F.-B.
+Poly(GR) in C9ORF72-Related ALS/FTD Compromises Mitochondrial Function and Increases Oxidative Stress and DNA Damage
+in iPSC-Derived Motor Neurons. Neuron 2016, 92, 383–391. [CrossRef]
+44.
+Andrade, N.S.; Ramic, M.; Esanov, R.; Liu, W.; Rybin, M.J.; Gaidosh, G.; Abdallah, A.; Del’Olio, S.; Huff, T.C.; Chee, N.T.; et al.
+Dipeptide repeat proteins inhibit homology-directed DNA double strand break repair in C9ORF72 ALS/FTD. Mol. Neurodegener.
+2020, 15, 13. [CrossRef] [PubMed]
+45.
+Moens, T.G.; Niccoli, T.; Wilson, K.M.; Atilano, M.L.; Birsa, N.; Gittings, L.M.; Holbling, B.V.; Dyson, M.C.; Thoeng, A.; Neeves, J.;
+et al. C9orf72 arginine-rich dipeptide proteins interact with ribosomal proteins in vivo to induce a toxic translational arrest that is
+rescued by eIF1A. Acta Neuropathol. 2019, 137, 487–500. [CrossRef]
+46.
+Boeynaems, S.; Bogaert, E.; Kovacs, D.; Konijnenberg, A.; Timmerman, E.; Volkov, A.; Guharoy, M.; De Decker, M.; Jaspers,
+T.; Ryan, V.H.; et al. Phase Separation of C9orf72 Dipeptide Repeats Perturbs Stress Granule Dynamics. Mol. Cell 2017, 65,
+1044–1055.e5. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2024, 25, 9966
+18 of 21
+47.
+Shi, Y.; Lin, S.; Staats, K.A.; Li, Y.; Chang, W.-H.; Hung, S.-T.; Hendricks, E.; Linares, G.R.; Wang, Y.; Son, E.Y.; et al. Haploin-
+sufficiency leads to neurodegeneration in C9ORF72 ALS/FTD human induced motor neurons. Nat. Med. 2018, 24, 313–325.
+[CrossRef]
+48.
+Boivin, M.; Pfister, V.; Gaucherot, A.; Ruffenach, F.; Negroni, L.; Sellier, C.; Charlet-Berguerand, N. Reduced autophagy upon
+C9ORF72 loss synergizes with dipeptide repeat protein toxicity in G4C2 repeat expansion disorders. EMBO J. 2020, 39, e100574.
+[CrossRef]
+49.
+Zhu, Q.; Jiang, J.; Gendron, T.F.; McAlonis-Downes, M.; Jiang, L.; Taylor, A.; Diaz Garcia, S.; Ghosh Dastidar, S.; Rodriguez, M.J.;
+King, P.; et al. Reduced C9ORF72 function exacerbates gain of toxicity from ALS/FTD-causing repeat expansion in C9orf72. Nat.
+Neurosci. 2020, 23, 615–624. [CrossRef]
+50.
+Sung, H.; Lloyd, T.E. Disrupted endoplasmic reticulum-mediated autophagosomal biogenesis in a Drosophila model of C9-ALS-
+FTD. Autophagy 2024, 20, 94–113. [CrossRef]
+51.
+Xu, W.; Xu, J. C9orf72 Dipeptide Repeats Cause Selective Neurodegeneration and Cell-Autonomous Excitotoxicity in Drosophila
+Glutamatergic Neurons. J. Neurosci. 2018, 38, 7741–7752. [CrossRef] [PubMed]
+52.
+Suk, T.R.; Rousseaux, M.W.C. The role of TDP-43 mislocalization in amyotrophic lateral sclerosis. Mol. Neurodegener. 2020, 15, 45.
+[CrossRef] [PubMed]
+53.
+Voicu, V.; Tataru, C.P.; Toader, C.; Covache-Busuioc, R.-A.; Glavan, L.A.; Bratu, B.-G.; Costin, H.P.; Corlatescu, A.D.; Ciurea,
+A.V. Decoding Neurodegeneration: A Comprehensive Review of Molecular Mechanisms, Genetic Influences, and Therapeutic
+Innovations. Int. J. Mol. Sci. 2023, 24, 13006. [CrossRef] [PubMed]
+54.
+Hegde, K.N.; Srivastava, A. Drosophila melanogaster as a Tool for Amyotrophic Lateral Sclerosis Research. J. Dev. Biol. 2022,
+10, 36. [CrossRef] [PubMed]
+55.
+Wang, P.; Deng, J.; Dong, J.; Liu, J.; Bigio, E.H.; Mesulam, M.; Wang, T.; Sun, L.; Wang, L.; Lee, A.Y.-L.; et al. TDP-43 induces
+mitochondrial damage and activates the mitochondrial unfolded protein response. PLoS Genet. 2019, 15, e1007947. [CrossRef]
+56.
+Rosen, D.R.; Siddique, T.; Patterson, D.; Figlewicz, D.A.; Sapp, P.; Hentati, A.; Donaldson, D.; Goto, J.; O’Regan, J.P.; Deng, H.-X.;
+et al. Mutations in Cu/Zn superoxide dismutase gene are associated with familial amyotrophic lateral sclerosis. Nature 1993, 362,
+59–62. [CrossRef]
+57.
+Eleutherio, E.C.A.; Silva Magalhães, R.S.; De Araújo Brasil, A.; Monteiro Neto, J.R.; De Holanda Paranhos, L. SOD1, more than
+just an antioxidant. Arch. Biochem. Biophys. 2021, 697, 108701. [CrossRef]
+58.
+Veldink, J.H. ALS genetic epidemiology ‘How simplex is the genetic epidemiology of ALS?’. J. Neurol. Neurosurg. Psychiatry 2017,
+88, 537. [CrossRef]
+59.
+Layalle, S.; They, L.; Ourghani, S.; Raoul, C.; Soustelle, L. Amyotrophic Lateral Sclerosis Genes in Drosophila melanogaster. Int. J.
+Mol. Sci. 2021, 22, 904. [CrossRef]
+60.
+Liguori, F.; Alberti, F.; Amadio, S.; Angelini, D.F.; Pilesi, E.; Vitale, G.; Tesoriere, G.; Borsellino, G.; Vernì, F.; Volonté, C.
+Pan-neuronal expression of human mutant SOD1 in Drosophila impairs survival and motor performance, induces early neuroin-
+flammation and chromosome aberrations. Biochim. Et Biophys. Acta (BBA)—Mol. Basis Dis. 2024, 1870, 167192. [CrossRef]
+61.
+Scaricamazza, S.; Nesci, V.; Salvatori, I.; Fenili, G.; Rosina, M.; Gloriani, M.; Paronetto, M.P.; Madaro, L.; Ferri, A.; Valle,
+C. Endurance exercise has a negative impact on the onset of SOD1-G93A ALS in female mice and affects the entire skeletal
+muscle-motor neuron axis. Front. Pharmacol. 2024, 15, 1360099. [CrossRef] [PubMed]
+62.
+Jutzi, D.; Campagne, S.; Schmidt, R.; Reber, S.; Mechtersheimer, J.; Gypas, F.; Schweingruber, C.; Colombo, M.; Von Schroetter,
+C.; Loughlin, F.E.; et al. Aberrant interaction of FUS with the U1 snRNA provides a molecular mechanism of FUS induced
+amyotrophic lateral sclerosis. Nat. Commun. 2020, 11, 6341. [CrossRef] [PubMed]
+63.
+Vanneste, J.; Van Den Bosch, L. The Role of Nucleocytoplasmic Transport Defects in Amyotrophic Lateral Sclerosis. Int. J. Mol. Sci.
+2021, 22, 12175. [CrossRef] [PubMed]
+64.
+Ratti, A.; Buratti, E. Physiological functions and pathobiology of TDP-43 and FUS/TLS proteins. J. Neurochem. 2016, 138, 95–111.
+[CrossRef]
+65.
+Colombrita, C.; Onesto, E.; Buratti, E.; De La Grange, P.; Gumina, V.; Baralle, F.E.; Silani, V.; Ratti, A. From transcriptomic to
+protein level changes in TDP-43 and FUS loss-of-function cell models. Biochim. Et Biophys. Acta (BBA)—Gene Regul. Mech. 2015,
+1849, 1398–1410. [CrossRef]
+66.
+Mejzini, R.; Flynn, L.L.; Pitout, I.L.; Fletcher, S.; Wilton, S.D.; Akkari, P.A. ALS Genetics, Mechanisms, and Therapeutics: Where
+Are We Now? Front. Neurosci. 2019, 13, 1310. [CrossRef]
+67.
+Shang, Y.; Huang, E.J. Mechanisms of FUS mutations in familial amyotrophic lateral sclerosis. Brain Res. 2016, 1647, 65–78.
+[CrossRef]
+68.
+Assoni, A.F.; Foijer, F.; Zatz, M. Amyotrophic Lateral Sclerosis, FUS and Protein Synthesis Defects. Stem Cell Rev. Rep. 2023, 19,
+625–638. [CrossRef]
+69.
+Xue, Y.C.; Ng, C.S.; Xiang, P.; Liu, H.; Zhang, K.; Mohamud, Y.; Luo, H. Dysregulation of RNA-Binding Proteins in Amyotrophic
+Lateral Sclerosis. Front. Mol. Neurosci. 2020, 13, 78. [CrossRef]
+70.
+Gomes, E.; Shorter, J. The molecular language of membraneless organelles. J. Biol. Chem. 2019, 294, 7115–7127. [CrossRef]
+71.
+Baradaran-Heravi, Y.; Van Broeckhoven, C.; Van Der Zee, J. Stress granule mediated protein aggregation and underlying gene
+defects in the FTD-ALS spectrum. Neurobiol. Dis. 2020, 134, 104639. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2024, 25, 9966
+19 of 21
+72.
+Fernandes, N.; Eshleman, N.; Buchan, J.R. Stress Granules and ALS: A Case of Causation or Correlation? In RNA Metabolism in
+Neurodegenerative Diseases; Sattler, R., Donnelly, C.J., Eds.; Advances in Neurobiology; Springer International Publishing: Cham,
+Switzerland, 2018; Volume 20, pp. 173–212. ISBN 978-3-319-89688-5.
+73.
+Gasset-Rosa, F.; Lu, S.; Yu, H.; Chen, C.; Melamed, Z.; Guo, L.; Shorter, J.; Da Cruz, S.; Cleveland, D.W. Cytoplasmic TDP-43
+De-mixing Independent of Stress Granules Drives Inhibition of Nuclear Import, Loss of Nuclear TDP-43, and Cell Death. Neuron
+2019, 102, 339–357.e7. [CrossRef] [PubMed]
+74.
+Fernandes, N.; Nero, L.; Lyons, S.; Ivanov, P.; Mittelmeier, T.; Bolger, T.; Buchan, J. Stress Granule Assembly Can Facilitate but Is
+Not Required for TDP-43 Cytoplasmic Aggregation. Biomolecules 2020, 10, 1367. [CrossRef]
+75.
+Butti, Z.; Patten, S.A. RNA Dysregulation in Amyotrophic Lateral Sclerosis. Front. Genet. 2019, 9, 712. [CrossRef]
+76.
+Humphrey, J.; Birsa, N.; Milioto, C.; McLaughlin, M.; Ule, A.M.; Robaldo, D.; Eberle, A.B.; Kräuchi, R.; Bentham, M.; Brown, A.-L.;
+et al. FUS ALS-causative mutations impair FUS autoregulation and splicing factor networks through intron retention. Nucleic
+Acids Res. 2020, 48, 6889–6905. [CrossRef]
+77.
+Stolow, D.T.; Haynes, S.R. Cabeza, a Drosophila gene encoding a novel RNA binding protein, shares homology with EWS and
+TLS, two genes involved in human sarcoma formation. Nucleic Acids Res. 1995, 23, 835–843. [CrossRef]
+78.
+Wang, J.-W.; Brent, J.R.; Tomlinson, A.; Shneider, N.A.; McCabe, B.D. The ALS-associated proteins FUS and TDP-43 function
+together to affect Drosophila locomotion and life span. J. Clin. Investig. 2011, 121, 4118–4126. [CrossRef]
+79.
+Sasayama, H.; Shimamura, M.; Tokuda, T.; Azuma, Y.; Yoshida, T.; Mizuno, T.; Nakagawa, M.; Fujikake, N.; Nagai, Y.; Yamaguchi,
+M. Knockdown of the Drosophila Fused in Sarcoma (FUS) Homologue Causes Deficient Locomotive Behavior and Shortening of
+Motoneuron Terminal Branches. PLoS ONE 2012, 7, e39483. [CrossRef] [PubMed]
+80.
+Shimamura, M.; Kyotani, A.; Azuma, Y.; Yoshida, H.; Binh Nguyen, T.; Mizuta, I.; Yoshida, T.; Mizuno, T.; Nakagawa, M.; Tokuda,
+T.; et al. Genetic link between Cabeza, a Drosophila homologue of Fused in Sarcoma (FUS), and the EGFR signaling pathway.
+Exp. Cell Res. 2014, 326, 36–45. [CrossRef]
+81.
+Frickenhaus, M.; Wagner, M.; Mallik, M.; Catinozzi, M.; Storkebaum, E. Highly efficient cell-type-specific gene inactivation
+reveals a key function for the Drosophila FUS homolog cabeza in neurons. Sci. Rep. 2015, 5, 9107. [CrossRef]
+82.
+Xia, R.; Liu, Y.; Yang, L.; Gal, J.; Zhu, H.; Jia, J. Motor neuron apoptosis and neuromuscular junction perturbation are prominent
+features in a Drosophila model of Fus-mediated ALS. Mol. Neurodegener. 2012, 7, 10. [CrossRef] [PubMed]
+83.
+Jäckel, S.; Summerer, A.K.; Thömmes, C.M.; Pan, X.; Voigt, A.; Schulz, J.B.; Rasse, T.M.; Dormann, D.; Haass, C.; Kahle, P.J.
+Nuclear import factor transportin and arginine methyltransferase 1 modify FUS neurotoxicity in Drosophila. Neurobiol. Dis. 2015,
+74, 76–88. [CrossRef] [PubMed]
+84.
+Machamer, J.B.; Collins, S.E.; Lloyd, T.E. The ALS gene FUS regulates synaptic transmission at the Drosophila neuromuscular
+junction. Hum. Mol. Genet. 2014, 23, 3810–3822. [CrossRef] [PubMed]
+85.
+Brown, R.H.; Al-Chalabi, A. Amyotrophic Lateral Sclerosis. N. Engl. J. Med. 2017, 377, 162–172. [CrossRef] [PubMed]
+86.
+Zarei, S.; Carr, K.; Reiley, L.; Diaz, K.; Guerra, O.; Altamirano, P.; Pagani, W.; Lodin, D.; Orozco, G.; Chinea, A. A comprehensive
+review of amyotrophic lateral sclerosis. Surg. Neurol. Int. 2015, 6, 171. [CrossRef]
+87.
+Gwathmey, K.G.; Corcia, P.; McDermott, C.J.; Genge, A.; Sennfält, S.; De Carvalho, M.; Ingre, C. Diagnostic delay in amyotrophic
+lateral sclerosis. Euro J. Neurol. 2023, 30, 2595–2601. [CrossRef]
+88.
+Ilieva, H.; Vullaganti, M.; Kwan, J. Advances in molecular pathology, diagnosis, and treatment of amyotrophic lateral sclerosis.
+BMJ 2023, 383, e075037. [CrossRef]
+89.
+Knopman, D.S.; Amieva, H.; Petersen, R.C.; Chételat, G.; Holtzman, D.M.; Hyman, B.T.; Nixon, R.A.; Jones, D.T. Alzheimer
+disease. Nat. Rev. Dis. Primers 2021, 7, 33. [CrossRef]
+90.
+Beeldman, E.; Raaphorst, J.; Klein Twennaar, M.; de Visser, M.; Schmand, B.A.; de Haan, R.J. The cognitive profile of ALS: A
+systematic review and meta-analysis update. J. Neurol. Neurosurg. Psychiatry 2016, 87, 611–619. [CrossRef]
+91.
+Burke, T.; Pinto-Grau, M.; Lonergan, K.; Elamin, M.; Bede, P.; Costello, E.; Hardiman, O.; Pender, N. Measurement of Social
+Cognition in Amyotrophic Lateral Sclerosis: A Population Based Study. PLoS ONE 2016, 11, e0160850. [CrossRef]
+92.
+Christidi, F.; Karavasilis, E.; Ferentinos, P.; Xirou, S.; Velonakis, G.; Rentzos, M.; Zouvelou, V.; Zalonis, I.; Efstathopoulos, E.;
+Kelekis, N.; et al. Investigating the neuroanatomical substrate of pathological laughing and crying in amyotrophic lateral sclerosis
+with multimodal neuroimaging techniques. Amyotroph. Lateral Scler. Front. Degener. 2018, 19, 12–20. [CrossRef] [PubMed]
+93.
+Ciurea, A.V.; Mohan, A.G.; Covache-Busuioc, R.-A.; Costin, H.-P.; Glavan, L.-A.; Corlatescu, A.-D.; Saceleanu, V.M. Unraveling
+Molecular and Genetic Insights into Neurodegenerative Diseases: Advances in Understanding Alzheimer’s, Parkinson’s, and
+Huntington’s Diseases and Amyotrophic Lateral Sclerosis. Int. J. Mol. Sci. 2023, 24, 10809. [CrossRef] [PubMed]
+94.
+Wei, Q.-Q.; Ou, R.; Lin, J.; Zhang, L.; Hou, Y.; Cao, B.; Chen, Y.; Yang, T.; Shang, H. Prevalence and Factors Related to Pathological
+Laughter and Crying in Patients with Amyotrophic Lateral Sclerosis. Front. Neurol. 2021, 12, 655674. [CrossRef] [PubMed]
+95.
+De Carvalho, M.; Swash, M. Diagnosis and differential diagnosis of MND/ALS: IFCN handbook chapter. Clin. Neurophysiol.
+Pract. 2024, 9, 27–38. [CrossRef]
+96.
+Costa, J.; Swash, M.; De Carvalho, M. Awaji Criteria for the Diagnosis of Amyotrophic Lateral Sclerosis: A Systematic Review.
+Arch. Neurol. 2012, 69, 1410. [CrossRef]
+97.
+Douglass, C.P.; Kandler, R.H.; Shaw, P.J.; McDermott, C.J. An evaluation of neurophysiological criteria used in the diagnosis of
+motor neuron disease. J. Neurol. Neurosurg. Psychiatry. 2010, 81, 646–649. [CrossRef]
+
+Int. J. Mol. Sci. 2024, 25, 9966
+20 of 21
+98.
+Carvalho, M.D.; Swash, M. Awaji diagnostic algorithm increases sensitivity of El Escorial criteria for ALS diagnosis. Amyotroph.
+Lateral Scler. Off. Publ. World Fed. Neurol. Res. Group Mot. Neuron Dis. 2009, 10, 53–57. [CrossRef]
+99.
+Higashihara, M. Fasciculation potentials in amyotrophic lateral sclerosis and the diagnostic yield of the Awaji algorithm. Muscle
+Nerve. 2012, 45, 175–182. [CrossRef]
+100. Jang, J.-S.; Bae, J.S. AWAJI criteria are not always superior to the previous criteria: A meta-analysis. Muscle Nerve. 2015, 51,
+822–829. [CrossRef]
+101. Turner, M.R.; UK MND Clinical Studies Group. Diagnosing ALS: The Gold Coast criteria and the role of EMG. Pract. Neurol. 2022,
+22, 176–178. [CrossRef]
+102. Vucic, S. Gold Coast diagnostic criteria: Implications for ALS diagnosis and clinical trial enrollment. Muscle Nerve. 2021, 64,
+532–537. [CrossRef] [PubMed]
+103. Vidovic, M.; Müschen, L.H.; Brakemeier, S.; Machetanz, G.; Naumann, M.; Castro-Gomez, S. Current State and Future Directions
+in the Diagnosis of Amyotrophic Lateral Sclerosis. Cells 2023, 12, 736. [CrossRef] [PubMed]
+104. Fang, T.; Al Khleifat, A.; Stahl, D.R.; Lazo La Torre, C.; Murphy, C.; Young, C.; Shaw, P.J.; Leigh, P.N.; Al-Chalabi, A. Comparison
+of the King’s and MiToS staging systems for ALS. Amyotroph. Lateral Scler. Front. Degener. 2017, 18, 227–232. [CrossRef]
+105. Gebrehiwet, P.; Meng, L.; Rudnicki, S.A.; Sarocco, P.; Wei, J.; Wolff, A.A.; Chiò, A.; Andrews, J.A.; Genge, A.; Jackson, C.E.; et al.
+MiToS and King’s staging as clinical outcome measures in ALS: A retrospective analysis of the FORTITUDE-ALS trial. Amyotroph.
+Lateral Scler. Front. Degener. 2023, 24, 304–310. [CrossRef]
+106. Riva, N.; Domi, T.; Pozzi, L.; Lunetta, C.; Schito, P.; Spinelli, E.G.; Cabras, S.; Matteoni, E.; Consonni, M.; Bella, E.D.; et al. Update
+on recent advances in amyotrophic lateral sclerosis. J. Neurol. 2024, 271, 4693–4723. [CrossRef]
+107. Huijbers, M.G.; Niks, E.H.; Klooster, R.; De Visser, M.; Kuks, J.B.; Veldink, J.H.; Klarenbeek, P.; Van Damme, P.; De Baets, M.H.;
+Van Der Maarel, S.M.; et al. Myasthenia gravis with muscle specific kinase antibodies mimicking amyotrophic lateral sclerosis.
+Neuromuscul. Disord. 2016, 26, 350–353. [CrossRef]
+108. Paganoni, S.; Macklin, E.A.; Hendrix, S.; Berry, J.D.; Elliott, M.A.; Maiser, S.; Karam, C.; Caress, J.B.; Owegi, M.A.; Quick, A.; et al.
+Trial of Sodium Phenylbutyrate–Taurursodiol for Amyotrophic Lateral Sclerosis. N. Engl. J. Med. 2020, 383, 919–930. [CrossRef]
+[PubMed]
+109. Fontana, I.C.; Souza, D.G.; Souza, D.O.; Gee, A.; Zimmer, E.R.; Bongarzone, S. A Medicinal Chemistry Perspective on Excitatory
+Amino Acid Transporter 2 Dysfunction in Neurodegenerative Diseases. J. Med. Chem. 2023, 66, 2330–2346. [CrossRef]
+110. Ortega-Hombrados, L.; Molina-Torres, G.; Galán-Mercant, A.; Sánchez-Guerrero, E.; González-Sánchez, M.; Ruiz-Muñoz, M.
+Systematic Review of Therapeutic Physical Exercise in Patients with Amyotrophic Lateral Sclerosis over Time. Int. J. Environ. Res.
+Public Health 2021, 18, 1074. [CrossRef] [PubMed]
+111. Cruz, M.P. Edaravone (Radicava): A Novel Neuroprotective Agent for the Treatment of Amyotrophic Lateral Sclerosis. P T. 2018,
+43, 25–28.
+112. Paganoni, S.; Watkins, C.; Cawson, M.; Hendrix, S.; Dickson, S.P.; Knowlton, N.; Timmons, J.; Manuel, M.; Cudkowicz, M.
+Survival analyses from the CENTAUR trial in amyotrophic lateral sclerosis: Evaluating the impact of treatment crossover on
+outcomes. Muscle Nerve 2022, 66, 136–141. [CrossRef] [PubMed]
+113. Benatar, M.; Wuu, J.; Andersen, P.M.; Bucelli, R.C.; Andrews, J.A.; Otto, M.; Farahany, N.A.; Harrington, E.A.; Chen, W.; Mitchell,
+A.A.; et al. Design of a Randomized, Placebo-Controlled, Phase 3 Trial of Tofersen Initiated in Clinically Presymptomatic SOD1
+Variant Carriers: The ATLAS Study. Neurotherapeutics 2022, 19, 1248–1258. [CrossRef]
+114. Wiesenfarth, M.; Dorst, J.; Brenner, D.; Elmas, Z.; Parlak, Ö.; Uzelac, Z.; Kandler, K.; Mayer, K.; Weiland, U.; Herrmann, C.; et al.
+Effects of tofersen treatment in patients with SOD1-ALS in a “real-world” setting—A 12-month multicenter cohort study from the
+German early access program. EClinicalMedicine 2024, 69, 102495. [CrossRef] [PubMed]
+115. Lee, S.Y.; Cho, H.-Y.; Oh, J.-P.; Park, J.; Bae, S.-H.; Park, H.; Kim, E.J.; Lee, J.-H. Therapeutic Effects of Combination of Nebivolol
+and Donepezil: Targeting Multifactorial Mechanisms in ALS. Neurotherapeutics 2023, 20, 1779–1795. [CrossRef] [PubMed]
+116. Boussicault, L.; Laffaire, J.; Schmitt, P.; Rinaudo, P.; Callizot, N.; Nabirotchkin, S.; Hajj, R.; Cohen, D. Combination of acamprosate
+and baclofen (PXT864) as a potential new therapy for amyotrophic lateral sclerosis. J. Neurosci. Res. 2020, 98, 2435–2450. [CrossRef]
+[PubMed]
+117. Le Gall, L.; Duddy, W.J.; Martinat, C.; Mariot, V.; Connolly, O.; Milla, V.; Anakor, E.; Ouandaogo, Z.G.; Millecamps, S.; Lainé, J.;
+et al. Muscle cells of sporadic amyotrophic lateral sclerosis patients secrete neurotoxic vesicles. J. Cachexia Sarcopenia Muscle 2022,
+13, 1385–1402. [CrossRef]
+118. Li, M.X.; Mercier, P.; Hartman, J.J.; Sykes, B.D. Structural Basis of Tirasemtiv Activation of Fast Skeletal Muscle. J. Med. Chem. 2021,
+64, 3026–3034. [CrossRef]
+119. Shefner, J.M.; Cudkowicz, M.E.; Hardiman, O.; Cockroft, B.M.; Lee, J.H.; Malik, F.I.; Meng, L.; Rudnicki, S.A.; Wolff, A.A.;
+Andrews, J.A.; et al. A phase III trial of tirasemtiv as a potential treatment for amyotrophic lateral sclerosis. Amyotroph. Lateral
+Scler. Front. Degener. 2019, 20, 584–594. [CrossRef]
+120. Li, J.; Fredericks, M.; Cannell, M.; Wang, K.; Sako, D.; Maguire, M.C.; Grenha, R.; Liharska, K.; Krishnan, L.; Bloom, T.; et al.
+ActRIIB:ALK4-Fc alleviates muscle dysfunction and comorbidities in murine models of neuromuscular disorders. J. Clin. Investig.
+2021, 131, e138634. [CrossRef]
+121. Häkkinen, S.; Chu, S.A.; Lee, S.E. Neuroimaging in genetic frontotemporal dementia and amyotrophic lateral sclerosis. Neurobiol.
+Dis. 2020, 145, 105063. [CrossRef]
+
+Int. J. Mol. Sci. 2024, 25, 9966
+21 of 21
+122. Bennett, C.F.; Krainer, A.R.; Cleveland, D.W. Antisense Oligonucleotide Therapies for Neurodegenerative Diseases. Annu. Rev.
+Neurosci. 2019, 42, 385–406. [CrossRef] [PubMed]
+123. Ghasemi, M.; Brown, R.H. Genetics of Amyotrophic Lateral Sclerosis. Cold Spring Harb. Perspect. Med. 2018, 8, a024125. [CrossRef]
+124. Fujimori, K.; Ishikawa, M.; Otomo, A.; Atsuta, N.; Nakamura, R.; Akiyama, T.; Hadano, S.; Aoki, M.; Saya, H.; Sobue, G.; et al.
+Modeling sporadic ALS in iPSC-derived motor neurons identifies a potential therapeutic agent. Nat. Med. 2018, 24, 1579–1589.
+[CrossRef] [PubMed]
+125. Muffat, J.; Li, Y.; Yuan, B.; Mitalipova, M.; Omer, A.; Corcoran, S.; Bakiasi, G.; Tsai, L.-H.; Aubourg, P.; Ransohoff, R.M.; et al.
+Efficient derivation of microglia-like cells from human pluripotent stem cells. Nat. Med. 2016, 22, 1358–1367. [CrossRef]
+126. Gomez Perdiguero, E.; Klapproth, K.; Schulz, C.; Busch, K.; Azzoni, E.; Crozet, L.; Garner, H.; Trouillet, C.; De Bruijn, M.F.;
+Geissmann, F.; et al. Tissue-resident macrophages originate from yolk-sac-derived erythro-myeloid progenitors. Nature 2015, 518,
+547–551. [CrossRef]
+127. Teo, F.; Kok, C.Y.L.; Tan, M.-J.; Je, H.S. Human pluripotent stem cell (hPSC)-derived microglia for the study of brain disorders. A
+comprehensive review of existing protocols. IBRO Neurosci. Rep. 2024, 16, 497–508. [CrossRef] [PubMed]
+128. Smethurst, P.; Risse, E.; Tyzack, G.E.; Mitchell, J.S.; Taha, D.M.; Chen, Y.-R.; Newcombe, J.; Collinge, J.; Sidle, K.; Patani, R. Distinct
+responses of neurons and astrocytes to TDP-43 proteinopathy in amyotrophic lateral sclerosis. Brain 2020, 143, 430–440. [CrossRef]
+129. Wainger, B.J.; Macklin, E.A.; Vucic, S.; McIlduff, C.E.; Paganoni, S.; Maragakis, N.J.; Bedlack, R.; Goyal, N.A.; Rutkove, S.B.; Lange,
+D.J.; et al. Effect of Ezogabine on Cortical and Spinal Motor Neuron Excitability in Amyotrophic Lateral Sclerosis: A Randomized
+Clinical Trial. JAMA Neurol. 2021, 78, 186. [CrossRef]
+130. Okano, H.; Yasuda, D.; Fujimori, K.; Morimoto, S.; Takahashi, S. Ropinirole, a New ALS Drug Candidate Developed Using iPSCs.
+Trends Pharmacol. Sci. 2020, 41, 99–109. [CrossRef]
+131. Yuan, A.; Rao, M.V.; Veeranna; Nixon, R.A. Neurofilaments and Neurofilament Proteins in Health and Disease. Cold Spring Harb.
+Perspect. Biol. 2017, 9, a018309. [CrossRef]
+132. Brodovitch, A.; Boucraut, J.; Delmont, E.; Parlanti, A.; Grapperon, A.-M.; Attarian, S.; Verschueren, A. Combination of serum and
+CSF neurofilament-light and neuroinflammatory biomarkers to evaluate ALS. Sci. Rep. 2021, 11, 703. [CrossRef] [PubMed]
+133. Illán-Gala, I.; Alcolea, D.; Montal, V.; Dols-Icardo, O.; Muñoz, L.; De Luna, N.; Turón-Sans, J.; Cortés-Vicente, E.; Sánchez-Saudinós,
+M.B.; Subirana, A.; et al. CSF sAPPβ, YKL-40, and NfL along the ALS-FTD spectrum. Neurology 2018, 91, e1619–e1628. [CrossRef]
+[PubMed]
+134. Thompson, A.G.; Gray, E.; Bampton, A.; Raciborska, D.; Talbot, K.; Turner, M.R. CSF chitinase proteins in amyotrophic lateral
+sclerosis. J. Neurol. Neurosurg. Psychiatry 2019, 90, 1215–1220. [CrossRef] [PubMed]
+135. Gille, B.; De Schaepdryver, M.; Dedeene, L.; Goossens, J.; Claeys, K.G.; Van Den Bosch, L.; Tournoy, J.; Van Damme, P.; Poesen, K.
+Inflammatory markers in cerebrospinal fluid: Independent prognostic biomarkers in amyotrophic lateral sclerosis? J. Neurol.
+Neurosurg. Psychiatry 2019, 90, 1338–1346. [CrossRef] [PubMed]
+136. Vu, L.; An, J.; Kovalik, T.; Gendron, T.; Petrucelli, L.; Bowser, R. Cross-sectional and longitudinal measures of chitinase proteins in
+amyotrophic lateral sclerosis and expression of CHI3L1 in activated astrocytes. J. Neurol. Neurosurg. Psychiatry 2020, 91, 350–358.
+[CrossRef]
+137. Toader, C.; Dobrin, N.; Brehar, F.-M.; Popa, C.; Covache-Busuioc, R.-A.; Glavan, L.A.; Costin, H.P.; Bratu, B.-G.; Corlatescu, A.D.;
+Popa, A.A.; et al. From Recognition to Remedy: The Significance of Biomarkers in Neurodegenerative Disease Pathology. Int. J.
+Mol. Sci. 2023, 24, 16119. [CrossRef]
+138. Milani, M.; Della Valle, I.; Rossi, S.; Fabbrizio, P.; Margotta, C.; Nardo, G.; Cozzolino, M.; D’Ambrosi, N.; Apolloni, S. Neuropro-
+tective effects of niclosamide on disease progression via inflammatory pathways modulation in SOD1-G93A and FUS-associated
+amyotrophic lateral sclerosis models. Neurotherapeutics 2024, 21, e00346. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

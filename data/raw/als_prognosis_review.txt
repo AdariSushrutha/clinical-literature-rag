@@ -1,0 +1,1583 @@
+Prognostic factors in ALS: A critical review
+Adriano Chio1, Giancarlo Logroscino2, Orla Hardiman3, Robert Swingler4, Douglas
+Mitchell5, Ettore Beghi6, Bryan G. Traynor7, and Eurals Consortium
+1Department of Neuroscience, University of Torino and San Giovanni Battista Hospital, Torino,
+Italy 2Department of Epidemiology HSPH, Harvard University, Boston, USA 3Department of
+Neurology, Beaumont Hospital and Trinity College Institute of Neuroscience, Dublin, Ireland
+4Department of Neurology, Ninewells Hospital and Medical School, Dundee, Scotland 5Preston
+MND Care and Research Centre, Royal Preston Hospital, Preston, UK 6Istituto di Ricerche
+Farmacologiche ‘Mario Negri’, Milano, Italy 7Section on Developmental Genetic Epidemiology,
+NIMH, NIH, Bethesda, USA
+Abstract
+We have performed a systematic review to summarize current knowledge concerning factors
+related to survival in ALS and to evaluate the implications of these data for clinical trials design.
+The median survival time from onset to death ranges from 20 to 48 months, but 10–20% of ALS
+patients have a survival longer than 10 years. Older age and bulbar onset are consistently reported
+to have a worse outcome. There are conflicting data on gender, diagnostic delay and El Escorial
+criteria. The rate of symptom progression was revealed to be an independent prognostic factor.
+Psychosocial factors, FTD, nutritional status, and respiratory function are also related to ALS
+outcome. The effect of enteral nutrition on survival is still unclear, while NIPPV has been found to
+improve survival. There are no well established biological markers of progression, although some
+are likely to emerge in the near future. These findings have relevant implications for the design of
+future trials. Randomization, besides the type of onset, should take into account age, respiratory
+status at entry, and a measure of disease progression pre-entry. Alternative trial designs can
+include the use of natural history controls, the so-called minimization method for treatment
+allocation, and the futility approach.
+Introduction
+Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder characterized by a
+progressive degeneration of upper and lower motor neurons leading to limb paralysis,
+dysphagia, dysarthria, and respiratory failure. The cause of the disease is unknown and there
+is no effective cure. Although it is generally reported that the mean survival of patients from
+symptom onset is 3–5 years (1), ALS has a considerable variability in outcome and its
+prognostic factors are not satisfactorily defined. A better understanding of factors
+influencing ALS outcome would guide physicians and patients in scheduling therapeutic
+interventions (2) and is particularly relevant to clinical trials design (3).
+The design of clinical trials to test compounds for therapeutic benefit in ALS relies on
+accurate information on disease outcome and prognostic factors (4). A priori knowledge of
+pattern of survival would allow effective stratification, decrease the number of patients that
+Correspondence: A. Chio, Department of Neuroscience, Via Cherasco 15, 10126 Torino, Italy. Fax: 39 0116963487. achio@usa.net.
+Declaration of interest:
+The authors report no conflicts of interest. The authors alone are responsible for the content and writing of the paper.
+NIH Public Access
+Author Manuscript
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+Published in final edited form as:
+Amyotroph Lateral Scler. 2009 ; 10(5-6): 310–323. doi:10.3109/17482960802566824.
+$watermark-text
+$watermark-text
+$watermark-text
+
+need to be enrolled to achieve adequate study power, and, consequently, decrease the cost of
+ALS trials. Unequal distribution of patients with different outcomes between the treatment
+groups has complicated the interpretation of the results of at least three trials (branch chain
+amino acids, IGF-1) (5-7). These failures indicate that the current method of case
+stratification (i.e. bulbar onset versus spinal onset) may be inadequate. Another more subtle
+bias in clinical trials is the inclusion of long-surviving (i.e. prevalent) patients.
+The purpose of this review is to summarize current knowledge concerning factors related to
+survival in ALS, to evaluate the strength of evidence supporting each factor, and to assess
+the implications of these data for clinical trial design.
+Methodological considerations
+Search strategy and selection criteria
+Papers published between 1960 and August 2008 were identified by PubMed literature
+searches using the terms “amyotrophic lateral sclerosis”, “motor neuron disease”,
+“progressive muscular atrophy”, “progressive bulbar palsy”, “survival”, “outcome”,
+“prognosis”, and “prognostic factor”, Additional publications were identified using the
+world wide web, from the references of these papers and from the authors’ own files. Only
+articles in English were considered.
+Classification of outcome studies
+Outcome studies can be classified into three broad categories: 1) studies based on series
+from ALS referral (tertiary) centres; 2) studies based on the placebo arm of pharmacological
+trials; and 3) studies based on epidemiological series. Moreover, each study can be defined
+as prospective or retrospective, according to the type of observation over time.
+(1) Studies based on referral centres series (Table I) are typically based on large cohorts of
+patients, collect high quality data on clinical factors, and have a high level of diagnostic
+accuracy. However, referral centre studies are prone to patient selection bias due to the
+retrospective nature of these studies, referral bias that is inherent to a tertiary referral centre,
+and a relatively high loss to follow-up (8-15).
+(2) Studies based on the placebo arm of pharmacological trials (5,16) (Table I) are generally
+prospective, well conducted, and have a good standardization of examined prognostic
+factors, a high level of diagnostic accuracy and include a relatively homogeneous
+population. However, this population is likely to have unique characteristics, representing a
+highly selected group of ALS patients, generally younger and more motivated than the
+general ALS population (1,17), fulfilling the criteria for ‘probable’ and ‘definite’ ALS by
+the El Escorial criteria (18) and with minimal respiratory involvement. Trial protocols
+typically exclude patients with conditions such as renal or liver failure and a variety of other
+chronic conditions, as well as fast progressors, thus further limiting the usefulness of these
+data for prognostic purposes in the clinical setting.
+(3) Prognostic surveys performed on population-based series rely on unselected populations,
+and therefore are likely to provide a better assessment of prognostic factors. However, the
+majority of epidemiologically-based studies are retrospective and small in size (19-22)
+(Table II). Retrospective design has several pitfalls: 1) it does not allow certain prognostic
+factors, such as symptoms progression rate to be assessed; 2) it is less accurate with regard
+to certainty of disease diagnosis, since it is usually based on the retrospective revision of
+clinical data; and 3) there is a risk of missing specific subsets of patients not captured by the
+study design.
+Chio et al.
+Page 2
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+Recently, outcome studies based on prospective population-based registers using multiple
+sources of information to ensure complete case ascertainment within a defined geographical
+area have been published (23-27) (Table III). These studies represent an advancement of the
+classical epidemiological studies and are considered the best available methodological
+design for the study of rare disorders. They have the advantage of allowing the application
+of uniform and definite diagnostic criteria and permit the assessment of prognostic factors in
+a standardized manner. Most importantly, the completeness of case ascertainment permits
+the analysis of the full clinical spectrum of the ALS population, in particular the old or very
+old cases, as demonstrated by the older mean age of onset observed in the registry cohorts
+compared to that of both retrospective epidemiological series and referral series. The
+drawbacks of epidemiological registries are the costs of a prospective follow-up and the
+complexity in organization and coordination.
+Overall survival
+The median survival from onset to death in ALS is reported to vary from 20 to 48 months
+with ALS referral centres reporting longer survival times (8,9,11,13,28,29). This wide range
+narrows when considering population-based studies, which are more likely to reflect the
+experience of the general ALS population (20–36 months) (22-27). All studies report that 5
+to 10% of ALS patients survive for more than 10 years.
+Specific prognostic factors
+Demographic factors
+Age: The vast majority of studies has found that age is a strong prognostic factor in ALS,
+with decreasing survival time correlating with increasing age of symptom onset
+(9,11,12,14,20,25-27,31,32). Patients with symptom onset before 40 years of age have
+longer survival, often exceeding 10 years (14,26). It is noteworthy that over 80% of patients
+less than 40 years of age are men (26). Conversely, median survival among patients
+presenting after 80 years of age is less than two years (31) and males and females are
+equally represented in this age group.
+Gender: Most studies have found that gender has no effect on ALS outcome, despite the
+higher frequency of bulbar onset disease among older women. Notable exceptions are the
+two register-based studies from Washington State, U.S.A. and Scotland (23,26) and the two
+small retrospective studies (33,34) that found a significantly shorter survival among women
+both in univariate and in multivariate analyses.
+Clinical factors
+Site of onset: Bulbar onset disease is associated with a worse prognosis than spinal onset
+(12,14,26,32,35). This finding is not completely explained by the increased frequency of
+bulbar disease in old age (17,24,25,31,35). In a registry-based study, the presence of bulbar
+symptoms at the time of diagnosis was an independent prognostic factor (25) indicating that
+bulbar function at any stage of the illness plays a major role in determining outcome.
+Not surprisingly, respiratory onset disease is a strikingly negative prognostic factor (36,37).
+However, a recent paper indicated that ALS patients with respiratory onset who underwent
+non-invasive ventilation had a significant improvement of survival compared to those who
+did not use non-invasive ventilation (38).
+Data on differences in prognosis between patients with upper and those with lower limb
+onset are conflicting. Some studies showed a poorer prognosis with lower limb onset
+(11,25,32), perhaps due to an increased risk of thromboembolic disease and infections
+Chio et al.
+Page 3
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+arising from loss of motility. One study found a poorer outcome in patients with upper limb
+onset (39).
+Patients with incomplete forms of motor neuron disease, such as those with pure lower
+motor neuron disease (sometimes referred as progressive muscular atrophy, PMA), have a
+better prognosis than those with ‘classic’ ALS (27,32).
+Diagnostic delay: Several studies, but not all, have found that a longer delay from symptom
+onset to diagnosis carries a better prognosis (10,12,14,15,26,27,29,35,40-42). Interestingly,
+in a study comparing a population-based incidence cohort to a referral cohort, the duration
+of symptoms from onset to diagnosis was significantly related to survival only in the latter
+cohort (17). In general, the finding of a worse prognosis in patients with a short time delay
+between onset and diagnosis is likely to indicate a more aggressive disease, which leads the
+patient to seek medical attention more rapidly and is more readily diagnosed (26).
+Family history of ALS: Most studies have not found any differences in outcome between
+patients with sporadic and those with familial ALS (12,25,43). However, it is now generally
+accepted that different mutations of Cu/Zn superoxide dismutase (SOD1) have different
+effects on the age of onset of symptoms (43,44) and on the rate of progression of the disease.
+For example, A4V mutation is associated with an extremely rapid decline, with a mean
+survival of 12 months, whereas E21G, G37R, D90A G93C, and I113T mutations determine
+a more benign course, with a median survival – 80 months) (43,45). In most instances,
+clinically mild mutations are characterized by a prevalent lower motor neuron disease, with
+few or no pyramidal signs. Furthermore, some mutations, such as I113T, are characterized
+by large intra-familial variations both in age of onset and in clinical phenotype (46),
+indicating the presence of modifying factors that may either be genetic or environmental in
+nature. A systematic analysis of the different phenotypes of SOD1 mutations is still lacking.
+Rate of disease progression: It has long been believed that the loss of motor neurons in
+ALS is linear, but it is unclear if clinical decline is also linear. The rate of symptom
+progression has been analysed in relatively few studies. A study analysing a series of 62
+patients enrolled in two clinical trials found that linear estimates of rates of disease
+progression based on isometric myometry and FVC measures were better predictors of
+patient survival than demographic data (28). These findings were replicated in two
+additional independent series (47). Similarly, in a prospective study based on a referral
+centre, ALS outcome was significantly related to the decline of various measures of disease
+progression (MRC compound score, FVC% and ALSFRS) during the first year of follow-up
+(39). In a prospective register-based study, the rates of progression of respiratory, lower
+limb and bulbar impairment during the first six months after diagnosis (measured with FVC,
+MRC scale and bulbar scale, respectively) were independent prognostic factors in the Cox
+multivariable model (25). Similar data were found from the analysis of two different series
+of patients enrolled in the placebo arm of two clinical trials (16,48). In a recent paper on a
+small series, the progression rate of ALSFRS-R score evaluated at presentation was
+significantly related to ALS prognosis (49). Lastly, in a paper on a referral ALS series, the
+rate of progression of ALS-FRS-R, both during the whole disease and the first 100 days
+after diagnosis, revealed to be strongly related to survival (50).
+Also, neurophysiological data support this concept: a study on the decline of motor unit
+number using MUNE indicated that this parameter is related to prognosis (51). More
+indirect evidence comes from the parallel decline between ALS-FRS and neurophysiological
+measurements (52).
+Chio et al.
+Page 4
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+These observations, taken together, indicate that each individual ALS patient has an intrinsic
+‘disease progression rate’, and that this rate is maintained during the course of the disease,
+indirectly confirming the hypothesis of a linear decline of clinical status in ALS. More
+important, these findings suggest that it could be possible to utilize symptom progression
+rate as a measure of efficacy in clinical trials of new drugs.
+Psychosocial factors—Although often overlooked by clinicians, psychosocial factors
+seem to play an important role in ALS outcome. A longitudinal study has found that patients
+with psychological distress (measured with a battery of psychological assessment scales
+evaluating perceived stress, depression, hopelessness, anger expression, and purpose in life)
+had a 2.24-fold (95% CI 1.08–4.64) increased risk of dying than patients with psychological
+well-being (53). A longitudinal assessment of mood and self-esteem on survival showed that
+lower mood predicted a faster progression and a shorter survival (54). However, it is also
+possible that this effect is related to the fact that low mood is the consequence of having a
+more rapidly progressive disease. In an analysis of the effect of quality of life (QoL) on
+outcome, the physical health summary measure of the SF-36 was found to be independently
+related to outcome, whereas only a trend was found for the mental health summary measure
+(26). In the same paper, marital status was also shown to be relevant in the outcome of ALS;
+patients who lived alone had a significantly worse prognosis than patients who were
+married.
+Despite this, attention must be drawn to one major caveat. There are increasing clinical,
+pathological and genetic data suggesting that ALS and FTD syndromes form a spectrum of
+disease (55). It is well recognized that ALS patients with florid FTD have a shortened
+survival and so it cannot be discounted that the psychological features identified in the
+above studies are symptomatic of early or mild clinical cognitive impairment (56). It should
+be noted that none of the studies on QoL and survival rigorously assessed frontal lobe
+function.
+Cognitive functions: In recent years, it has become increasingly evident that 5–10% of ALS
+patients develop an overt frontotemporal lobar dementia (FTLD), and probably up to half of
+all patients have a subtle impairment of temporal and frontal lobe cognitive function (57).
+Despite this, there have been no population-based, longitudinal studies of cognition in ALS.
+A recent clinic-based study found that patients with ALS-FTLD have a shorter survival than
+those with normal executive and behavioural function (median survival, 28 months vs. 39
+months) (51). This difference is likely to be due, at least in part, to poor compliance of ALS-
+FTLD patients for non-invasive positive pressure ventilation (NIPPV) and percutaneous
+endoscopic gastrostomy (PEG). Conversely, mild cognitive impairment may have little or no
+effect on ALS outcome (58).
+Nutritional status: It is generally recognized that malnourishment is a relevant determinant
+of outcome in ALS. However, surprisingly few studies, if any, have analysed this factor in
+ALS series. Body Mass Index (BMI) is a generally accepted marker of nutritional status: in
+a study on 55 ALS patients prospectively followed up, a BMI value 518.5 has been found to
+be an independent prognostic factor for death both in univariate and in multivariable
+analysis (59). Similarly, in a prospective study based on patients allocated to the placebo
+arm of the CNTF trial, weight loss compared to pre-study weight appeared to be
+significantly related to a worse prognosis (16).
+Respiratory status: Respiratory function is generally considered important in ALS. All
+studies evaluating respiratory status found that a lower predicted forced vital capacity (FVC
+%) at diagnosis was the single most relevant prognostic factor in ALS (16,25,38,60,61). Per
+cent predicted vital capacity (VC%) and the slope of decline of VC% have been
+Chio et al.
+Page 5
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+significantly correlated with ALS survival (62). Sniff nasal pressure (SNP) has been found
+to accurately reflect intra-thoracic pressures and to be more significantly associated with
+respiratory failure than FVC%, but not in bulbar onset patients (63). Upright and supine
+forced vital capacity, maximal inspiratory pressure (MIP) and maximal expiratory pressure
+(MEP) were significantly correlated to tracheostomy-free survival in a series of 95 ALS
+patients (64).
+Functional/disability scores: Several disability scores have been proposed for ALS. The
+ALS functional rating scale (ALSFRS) is the most widely used functional scale for ALS. A
+recent single-centre study found that ALSFRS-R, a revised form of the original ALSFRS
+score, was significantly related to outcome, and that the respiratory sub-score was the single
+most significant component (41). In a small study, the progression rate of the ALSFRS-R,
+calculated as differential of score from onset to diagnosis/disease duration (in months),
+resulted to be significantly related to prognosis (49).
+Rarely, other disability scores have been used for assessing ALS progression. In one centre
+study, the Amyotrophic Lateral Sclerosis score was the only significant prognostic factor
+besides age (65). Similarly, the Appel ALS Score (AALSS) was a significant predictor of
+ALS prognosis in a Cox multivariable analysis of a series of 831 patients from a tertiary
+ALS centre (10). This finding was confirmed by a second study performed in the same ALS
+centre, which found that both a higher baseline AALSS and a higher slope of AALSS from
+onset to the basal visit were correlated to a shorter survival (29).
+El Escorial criteria: The El Escorial criteria (EEC) (66) and their more recent revised form
+(EEC-R) (18) were developed to provide a structured tool to define the level of confidence
+of a diagnosis of ALS in individual patients in order to facilitate international collaboration
+in clinical trials and studies of ALS. According to the presence of lower and upper motor
+neuron signs and their distribution in four regions, i.e. bulbar, upper limb, thoracic, lower
+limb, the EEC-R classify patients to different degrees of diagnostic certainty (definite,
+probable, probable with laboratory confirmation, possible). Although mainly intended for
+use in research settings, the EEC have also been studied as potential prognostic markers.
+Most studies (13,15,25,27,39,41,67) but not all (24), have found that a diagnosis of definite
+ALS at the time of presentation carries a poorer prognosis compared to all other diagnostic
+levels. However, further analysis of the Irish data confirms that definite ALS carries a
+significantly worse prognosis than suspected and possible ALS (unpublished data, Orla
+Hardiman). Since a diagnosis of definite ALS implies muscle weakness and wasting in at
+least three regions, this finding is likely to indicate that patients with more widespread
+clinical involvement at the time of diagnosis have a more rapid progression of the disorder.
+However, it must be noted that the EEC were not originally designed as tools to determine
+burden of disease, but rather to reflect certainty of diagnosis, and in this context it is perhaps
+not surprising that the specificity of the criteria as a prognostic indicator is poor.
+Therapeutic factors
+Therapeutic interventions: After the licensing of riluzole in 1996, several studies, both
+population-based and from referral centres, have found a positive, independent, effect of this
+drug on ALS patients outcome (13,25,68,69). Riluzole may improve mortality rate by 23%
+and 15% at 6 and 12 months, respectively (68,70).
+While the insertion of PEG is now widely used as a measure for avoiding starvation and
+dehydration and improving QoL (71,72), it is still debated whether enteral nutrition has a
+positive effect on survival. A population-based study has found that PEG is an independent
+prognostic factor (25). Conversely, one study from Scotland found that PEG did not confer
+Chio et al.
+Page 6
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+any survival advantage compared to no gastrostomy (73), but this study reported a 25% one-
+month mortality after gastrostomy, a figure substantially higher than that found in clinical
+series (74). Also, different practices in proposing and executing PEG (i.e. early or late after
+the onset of swallowing difficulties) could play a role.
+Although two controlled studies have demonstrated that NIPPV confers a significant
+advantage to ALS patients in terms of median survival (increase of 205 days) and quality of
+life (35,75), surprisingly NIPPV has not been widely studied as a prognostic factor. In a
+population-based study NIPPV did not modify overall survival, but this finding was
+explained by the low number of patients who underwent this intervention (25). There are
+indications that early NIPPV increases survival compared to late NIPPV (76).
+Interdisciplinary care: A positive effect of being followed by a neurologist versus a non-
+neurologist has been reported by two population-based studies (20,31). Recently, two
+registry studies have shown that patients followed by ALS tertiary centres have a better
+prognosis than patients seen by traditional neurology clinics (77,78), but this finding has not
+been confirmed by another registry study (79). The positive effect of ALS centres seems to
+be independent from all other considered prognostic factors (namely age, site of onset,
+enteral nutrition and NIPPV), and has been therefore explained as a consequence of
+comprehensive care of patients. However, these results should be considered cautiously,
+since they were not controlled and were based on a post hoc analysis.
+Biological markers
+Biological markers of progression: One of the most difficult tasks in ALS is to identify
+biological markers of disease progression. Contrasting results have been reported for APOE
+genotypes, with most studies indicating no effect on survival (38,80,81), and a single study
+on 403 ALS patients demonstrating that APOE plasma levels over 6.3 mg/dl were correlated
+with a shorter survival time (Cox model, relative risk 1.083, 95% CI 1.019–1.151) (81) The
+presence of a homozygous deletion SMN2 gene has been found to be over-represented in a
+series of 110 ALS patients compared with controls (16% vs. 4%) and to carry a shorter
+median survival time (2.3 vs. 4.2 years) (82); however, this finding was not confirmed by a
+study on 106 patients with sporadic ALS and 18 with familial ALS (83). Recently, the
+muscle expression of NOGO A, a protein inhibiting axonal regeneration, has been found to
+significantly correlate with the severity of clinical disability of a series of 15 ALS patients
+(84). A lower serum chloride level at study entry has been related to a worse prognosis in a
+study based on 245 patients of the placebo group of the observational study on 2069
+patients, plasma creatinine levels below the normal range resulted to be a strong independent
+prognostic factor (15), although no convincing explanations for this finding have been
+proposed. A recent study on 369 ALS patients from a single referral centre found a
+significant increase of survival among patients with an elevated LDL/HDL ratio (85).
+Although intriguing, this factor needs confirmation in different populations. A study of
+magnetic resonance spectroscopic imaging (MRSI) of brain in a small prospective series of
+patients with ALS showed that patients with a Nacetylaspartate (NAA)/choline (Cho) ratio
+in the motor cortex lower than 2.11 had a reduced survival of 19.4 months compared with
+31.9 of patients with a ratio over 2.11 (86). According to the authors, this observation is
+suggestive of cerebral degeneration and could represent a sensitive and specific marker both
+of ALS diagnosis and ALS survival.
+Summary of observations: The discrepancies about ALS survival found in the published
+literature are mostly related to differences in study design. However, when considering only
+studies based on register methodology (more likely to report the full spectrum of the ALS
+population), the range of median survival is quite narrow (around 30 months from first
+Chio et al.
+Page 7
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+symptom). Interestingly, these studies are also characterized by an older age of onset (62–67
+years) than those based on other designs. However, in 10–20% of cases survival exceeds
+five years and, in 5–10%, 10 years.
+Despite the evidence of several publications, it is still impossible to predict with a good
+approximation the prognosis for an individual patient at the time of his/her diagnosis.
+However, several prognostic factors are well established.
+There is a general consensus that older age and bulbar onset are negatively related to ALS
+outcome, but the complex relationship between age, female gender and bulbar onset remains
+to be clarified. Also, the time delay from onset to diagnosis and the El Escorial diagnosis of
+definite ALS at the time of presentation, seem to have prognostic relevance, since they
+probably reflect a more rapid progression of the disorder.
+Several measures of disease progression have been found to be related to ALS outcome; all
+these measures have demonstrated linear progression, confirming the hypothesis that the
+loss of function in ALS has a linear course, paralleling the rate of loss of motor neurons. It
+remains to be established which is the best measure for estimating the loss of function in
+ALS, but some studies reported that ALSFRS (or its more recent revision, ALSFRS-R)
+could be a reliable, easy-to-use and reproducible measure to be included in trials. Several
+trials are actually using these measures.
+Although relatively few studies have been performed on psychosocial factors, these factors
+seem to have a profound effect on ALS outcome, both influencing the patients’ choices on
+the use of life-supporting interventions, such as PEG and NIPPV (2), and acting on their
+health behaviour, on the behaviours of family and professional carers and on psychological
+mechanisms relevant to disease progression (54). Also, the impairment of cognitive
+functions could have some impact on ALS outcome, but this issue deserves further study
+with standardized batteries of tests and a clearer definition of the level of cognitive
+impairment to be included as a cut-point.
+Advances in the care of people with ALS, including enteral nutrition and NIPPV, have to
+some extent modified the course of the disease to the point that it is now no more possible to
+talk of ‘ALS natural history’. These interventions should be considered when planning
+future pharmacological trials. Even if only few studies have analysed it, multidisciplinary
+care seems to have a positive and cost-effective effect on ALS outcome, and, most
+important, this effect seems to be independent of other known prognostic factors. However,
+the nature of this additional value of multidisciplinary centres remains unclear, and should
+be further studied.
+Today, despite some attractive preliminary findings, we still lack biological markers of ALS
+progression that can be applied to routine clinical practice and clinical trials. It is likely,
+however, that future search in this area will give us relevant new prognostic tools.
+Implication for clinical trials: Use of El Escorial classification for the enrolment of
+patients for clinical trials.
+In all recent trials, only patients with clinically definite, clinically probable or clinically
+probable-laboratory supported ALS were eligible for enrolment. However, it has been found
+that 20–44% of ALS patients are trial ineligible (i.e. they have a clinically possible or
+suspected ALS) at the time of diagnosis, and 5–10% of patients are still trial ineligible at
+death (24,87). Moreover, the median time from symptom onset to trial eligibility has been
+estimated to be 12.9 months (24). This observation questions the use of El Escorial
+Chio et al.
+Page 8
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+classification as criteria for trial eligibility, and indicates the need to revise some aspects of
+this classification.
+Patient stratification for placebo-controlled trials: The traditional stratification for
+clinical trials of ALS patients in bulbar and spinal onset is no longer sufficient and adequate.
+The factors to be included in stratification should also include age, respiratory status at
+entry, and a measure of disease progression pre-entry, such as the decline of ALSFRS-R
+score in a 3–6 month run-in period before recruitment. Moreover, recognizing the effect of
+PEG and NIPPV on ALS outcome, trial protocols should include guidelines for major
+interventions and ‘best clinical practice’ for ALS patients. It is clear that such requirements
+for the implementation of a clinical trial in ALS can be obtained only in medium-to-large
+size phase III studies. Another proposed approach is the use of a lead-in period in order to
+select a more homogeneous group of patients with a rapidly progressive disorder (88).
+Alternative methods for designing smaller phase II clinical trials should therefore be
+considered.
+Alternative trial designs: Since the use of placebo in such a severe disorder as ALS may be
+considered unethical, natural history controls have been advocated as an effective means to
+eliminate placebo in clinical trials in ALS (10,15,48,89). This approach may also reduce the
+number of patients that need to be recruited. The use of historical controls is quite frequent
+in oncology, where knowledge of prognostic factors derived from well-designed natural
+history studies allows accurate matching of cases and historical controls. However,
+regulatory agencies currently do not accept non-controlled trials for the purpose of
+registration of new drugs. Thus, clinical trials utilizing natural history controls are
+appropriate only for phase I and II clinical trials.
+An alternative approach to classical randomization, widely accepted in oncology for the
+implementation of small trials, is minimization, a method ensuring excellent balance
+between groups for a range of prognostic factors (90). With minimization, the treatment
+allocated to the next participant enrolled in the trial depends on the characteristics of those
+participants already enrolled. However, a requirement of this method is to establish ‘a priori’
+all relevant prognostic factors and their respective weight (91).
+A different option for phase II trials could be the futility approach, i.e. designing studies to
+identify which agents are least likely to demonstrate benefits rather than the more typical
+goal of identifying the most promising agents. In this approach the null hypothesis is that
+treatment has promise and will therefore produce results exceeding a meaningful threshold
+(93). This approach considerably reduces the sample size, with a reduction of costs, and,
+more importantly, makes it possible to perform a large number of trials each with a reduced
+number of centres. Such a design is being implemented in a study on coenzyme Q10 in ALS
+(85). Again, however, the design of such studies should rely on the availability of hard
+endpoints. Therefore, the complete understanding of more relevant factors related to ALS
+outcome, including therapeutic interventions, remains a major goal of clinical research.
+References
+1. Armon, C. Motor Neuron Disease. In: Gorelick, PB.; Alter, M., editors. Handbook of
+Neuroepidemiology. Marcel Dekker; New York: 1994. p. 407-54.
+2. Albert SM, Murphy PL, Del Bene ML, Rowland LP. A prospective study of preferences and actual
+treatment choices in ALS. Neurology. 1999; 53:278–83. [PubMed: 10430414]
+3. Miller RG, Munsat TL, Swash M, Brooks BR for the World Federation of Neurology Committee on
+Research. Consensus guidelines for the design and implementation of clinical trials in ALS. J
+Neurol Sci. 1999; 169:2–12. [PubMed: 10540001]
+Chio et al.
+Page 9
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+4. Borasio GD. Amyotrophic lateral sclerosis: lessons in trial design from recent trials. J Neurol Sci.
+1997; 152(Suppl 1):S23–8. [PubMed: 9419050]
+5. Lai EC, Flice KJ, Festoff BW, Gawel MJ, Gelinas DF, Kratz R, et al. the North America ALS/IGF-I
+Study Group. Effect of recombinant human insulin-like growth factor-1 on progression of ALS. A
+placebo controlled study. Neurology. 1997; 49:1621–30. [PubMed: 9409357]
+6. Borasio GD, Robberecht W, Leigh PN, Emile J, Guiloff RJ, Jerusalem F, et al. European ALS/IGF-I
+Study Group. A placebo-controlled trial of insulin-like growth factor-1 in amyotrophic lateral
+sclerosis. Neurology. 1998; 51:583–6. [PubMed: 9710040]
+7. Italian ALS Study Group. Branched chain amino acids and amyotrophic lateral sclerosis: a treatment
+failure? Neurology. 1993; 43:2466–70. [PubMed: 8255440]
+8. Norris F, Sheperd R, Denys E, U K, Mukai E, Elias L, Holden D, Norris H. Onset, natural history
+and outcome in idiopathic adult motor neuron disease. J Neurol Sci. 1993; 118:48–55. [PubMed:
+8229050]
+9. Caroscio, JT.; Calhoun, WF.; Yahr, MD. Prognostic factors in motor neuron disease: a prospective
+study of longevity. In: Rose, FC., editor. Research progress in motor neuron disease. Pitman;
+London: 1984. p. 34-43.
+10. Haverkamp LJ, Appel V, Appel SH. Natural history of amyotrophic lateral sclerosis in a database
+population. Validation of a scoring system and a model for survival prediction. Brain. 1995;
+118:707–19. [PubMed: 7600088]
+11. Preux P-M, Couratier P, Boutros-Toni F, Salle J-Y, Tarabaud F, Bernet-Bernady P, et al. Survival
+prediction in sporadic amyotrophic lateral sclerosis. Age and clinical form at onset are independent
+risk factors. Neuroepidemiology. 1996; 15:153–60. [PubMed: 8700307]
+12. Louwerse ES, Visser CE, Bossuyt PMM, Weverling GJ, the Netherlands ALS Consortium.
+Amyotrophic lateral sclerosis: mortality risk during the course of the disease and prognostic
+factors. J Neurol Sci. 1997; 152(Suppl 1):S10–7. [PubMed: 9419048]
+13. Turner MR, Bakker M, Sham P, Shaw CE, Leigh PN, AlChalabi A. Prognostic modelling of
+therapeutic interventions amyotrophic lateral sclerosis. Amyotrophic Lateral Sclerosis. 2002;
+3:15–21. [PubMed: 12061944]
+14. Testa D, Lovati R, Ferrarini M, Salmoiraghi F, Filippini G. Survival of 793 patients with
+amyotrophic lateral sclerosis diagnosed over a 28-year period. Amyotrophic Lateral Sclerosis.
+2004; 5:208–12. [PubMed: 15799548]
+15. Paillisse C, Lacomblez L, Dib M, Bensimon G, GarciaAcosta S, Meininger V. Prognostic factors
+for survival in amyotrophic lateral sclerosis patients treated with riluzole. Amyotrophic Lateral
+Sclerosis. 2005; 6:37–44. [PubMed: 16036424]
+16. Stambler N, Charatan M, Cedarbaum JM, ALS CNTF Treatment Study Group. Prognostic
+indicators of survival in ALS. Neurology. 1998; 50:66–72. [PubMed: 9443459]
+17. Lee JR, Annegers JF, Appel SH. Prognosis of amyotrophic lateral sclerosis and the effect of
+referral selection. Lett Neurol Sci. 1995; 132:207–15.
+18. Brooks BR, Miller RG, Swash M, Munsat TL, World Federation of Neurology Research Group on
+Motor Neuron Diseases. El Escorial revisited: revised criteria for the diagnosis of amyotrophic
+lateral sclerosis. Amyotroph Lateral Scler Other Motor Neuron Disord. 2000; 1:293–9. [PubMed:
+11464847]
+19. Yoshida S, Mulder DW, Kurland LT, Chu C-P, Okazaki H. Follow-up study on amyotrophic
+lateral sclerosis in Rochester, Minnesota 1925 through 1984. Neuroepidemiology. 1986; 5:61–70.
+[PubMed: 3785524]
+20. Christensen PB, Hoier-Pedersen E, Jensen BN. Survival of patients with amyotrophic lateral
+sclerosis in two Danish counties. Neurology. 1990; 40:600–4. [PubMed: 2320232]
+21. Tysnes O-B, Vollset SE, Larsen JP, Aarli JA. Prognostic factors and survival in amyotrophic
+lateral sclerosis. Neuroepidemiology. 1994; 13:226–35. [PubMed: 7969707]
+22. Sorenson EJ, Stalker AP, Kurland LT, Windebank AJ. Amyotrophic lateral sclerosis in Olmsted
+County, Minnesota, 1925 to 1998. Neurology. 2002; 59:280–2. [PubMed: 12136072]
+23. Chancellor AM, Slattery JM, Frazer H, Swingler RJ, Holloway SM, Wallow CP. The prognosis of
+adult-onset motor neuron disease: a prospective study based on the Scottish Motor Neuron Disease
+Register. J Neurol. 1993; 240:339–46. [PubMed: 8336173]
+Chio et al.
+Page 10
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+24. Traynor BJ, Codd BM, Corr B, Forde C, Frost E, Hardiman O. Clinical features of amyotrophic
+lateral sclerosis according to the El Escorial and Airlie House diagnostic criteria. Arch Neurol.
+2000; 57:1171–6. [PubMed: 10927797]
+25. Chiò A, Mora G, Leone M, Mazzini L, Cocito D, Giordana MT, et al. for the Piemonte and Valle
+d’Aosta Register for ALS. Early symptom progression rate is related to ALS outcome: a
+prospective population-based study. Neurology. 2002; 59:99–103. [PubMed: 12105314]
+26. del Aguila MA, Longstreth WT Jr, McGuire V, Koepsell TD, van Belle G. Prognosis in
+amyotrophic lateral sclerosis. A population-based study. Neurology. 2003; 60:813–9. [PubMed:
+12629239]
+27. Millul A, Beghi E, Logroscino G, Micheli A, Vitelli E, Zardi A. Survival of patients with
+amyotrophic lateral sclerosis in a population-based registry. Neuroepidemiology. 2005; 25:114–9.
+[PubMed: 15956808]
+28. Armon C, Moses D. Linear estimates of rates of disease progression as predictors of survival in
+patients with ALS entering clinical trials. J Neurol Sci. 1998; 160(Suppl 1):S37–41. [PubMed:
+9851647]
+29. Czaplinski A, Yen AA, Appel SH. Amyotrophic lateral sclerosis: early predictors of prolonged
+survival. J Neurol. 2006; 253:1428–36. [PubMed: 16773270]
+30. Forbes RB, Colville S, Cran GW, Swingler RJ. Unexpected decline in survival from amyotrophic
+lateral sclerosis/motor neuron disease. J Neurol Neurosurg Psychiatry. 2004; 75:1753–5.
+[PubMed: 15548498]
+31. Forbes RB, Colville S, Swingler RJ, for the Scottish ALS/MND Register. The epidemiology of
+amyotrophic lateral sclerosis (ALS/MND) in people aged 80 years or above. Age Ageing. 2004;
+33:131–4. [PubMed: 14960427]
+32. Uebayashi Y, Yase Y, Tnaka H, Shimada Y, Toyokura Y. Prognosis of motor neuron disease in
+Japan. Neuroepidemiology. 1983; 2:243–56.
+33. Lopez-Vega JM, Calleja J, Combarros O, Polo JM, Berciano J. Motor neuron disease in Cantabria.
+Acta Neurol Scand. 1988; 77:1–5. [PubMed: 3354306]
+34. Marti-Fabregas J, Fredas J, Illa I. Prognostic factors in amyotrophic lateral sclerosis. Neurologia.
+1996; 11:174–81. [PubMed: 8754633]
+35. Tysnes O-B, Vollset SE, Aarli JA. Epidemiology of amyotrophic lateral sclerosis in Hordaland
+county, western Norway. Acta Neurol Scand. 1991; 83:280–5. [PubMed: 2063649]
+36. Bourke SC, Tomlison M, Wlliams TL, Bullock RE, Shaw PJ, Gibson GJ. Effects of non-invasive
+ventilation on survival and quality of life in patients with amyotrophic lateral sclerosis: a
+randomized controlled trial. Lancet Neurology. 2006; 5:140–7. [PubMed: 16426990]
+37. de Carvalho M, Matias T, Coelho F, Evangelista T, Pinto A, Lùis ML. Motor neuron disease
+presenting with respiratory failure. J Neurol Sci. 1996; 139(Suppl):117–22. [PubMed: 8899670]
+38. Shoesmith CL, Findlater K, Rowe A, Strong MJ. Prognosis of amyotrophic lateral sclerosis with
+respiratory onset. J Neurol Neurosurg Psychiatr. 2007; 78:629–31. [PubMed: 17088331]
+39. Magnus T, Beck M, Giess R, Naumann M, Toyka KV. Disease progression in amyotrophic lateral
+sclerosis: predictors of survival. Muscle Nerve. 2002; 25:709–14. [PubMed: 11994965]
+40. Thijs V, Peeters E, Theys P, Matthijs G, Robberecht W. Demographic characteristics and
+prognosis in a Flemish amyotrophic lateral sclerosis population. Acta Neurol Belg. 2000; 100:84–
+90. [PubMed: 10934559]
+41. Kaufmann P, Levy G, Thompson JL, Delbene ML, Battista V, Gordon PH, et al. The ALSFRS-R
+predicts survival time in an ALS clinic population. Neurology. 2005; 64:38–43. [PubMed:
+15642901]
+42. Beghi E, Millul A, Logroscino G, Vitelli E, Micheli A, SLALOM GROUP. Outcome measures and
+prognostic indicators in patients with amyotrophic lateral sclerosis. Amyotroph Lateral Scler.
+2008; 9:163–7. [PubMed: 18574760]
+43. Cudkowicz ME, McKenna-Yasek D, Sapp PE, Chin W, Geller B, Hayden DL, et al. Epidemiology
+of mutations in superoxide dismutase in amyotrophic lateral sclerosis. Ann Neurol. 1997; 41:210–
+21. [PubMed: 9029070]
+44. Aggarwal A, Nicholson G. Age-dependent penetrance of three different superoxide dismutase 1
+(SOD1) mutations. Int J Neurosci. 2005; 115:1119–30. [PubMed: 16040355]
+Chio et al.
+Page 11
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+45. Juneja T, Pericak-Vance MA, Laing NG, Dave S, Siddique T. Prognosis in familial amyotrophic
+lateral sclerosis: progression and survival in patients with glu100gly and ala4val mutations in Cu/
+Zn superoxide dismutase. Neurology. 1997; 48:55–7. [PubMed: 9008494]
+46. Andersen PM. Amyotrophic lateral sclerosis associated with mutations in the Cu/Zn superoxide
+dismutase gene. Curr Neurol Neurosci Reports. 2006; 6:36–47.
+47. Armon C, Graves MC, Moses D, Forte DK, Sepulveda L, Darby SM, Smith RA. Linear estimates
+of disease progression predict survival in patients with amyotrophic lateral sclerosis. Muscle
+Nerve. 2000; 23:874–82. [PubMed: 10842262]
+48. Bryan WW, Hoagland RJ, Murphy J, Armon C, Barohn RJ, Goodpasture JC, et al. the rhCNTF
+ALS Study Group. Can we eliminate placebo in Amyotrophic Lateral Sclerosis clinical trials?
+Amyotrophic Lateral Sclerosis. 2002; 4:11–5. [PubMed: 12745612]
+49. Kimura F, Fujimura C, Ishida S, Nakajima H, Furutama D, Uehara H, et al. Progression rate of
+ALSFRS-R at time of diagnosis predicts survival time in ALS. Neurology. 2006; 66:265–7.
+[PubMed: 16434671]
+50. Kollewe K, Mauss U, Krampfl K, Petri S, Dengler R. Mohammadi BALSFRS-R score and its
+ratio: a useful predictor for ALS progression. J Neurol Sci. 2008 Epub ahead of print.
+51. Armon C, Brandstater ME. Motor unit number estimatebased rates of progression of ALS predict
+patient survival. Muscle Nerve. 1999; 22:1571–5. [PubMed: 10514236]
+52. deCarvalho M, Scotto M, Lopes A, Swash M. Quantitating progression in ALS. Neurology. 2005;
+64:1783–5. [PubMed: 15911812]
+53. McDonald E, Wiedenfeld SA, Hillel A, Carpenter CL, Walter RA. Survival in amyotrophic lateral
+sclerosis. The role of psychological factors. Arch Neurol. 1994; 51:17–23. [PubMed: 8274106]
+54. Johnston M, Earll A, Giles M, McClenahan R, Stevens D, Morrison V. Mood as a predictor of
+disability and survival in patients diagnosed with ALS/MND. Br J Health Psychol. 1999; 4:127–
+36.
+55. Ince PG, Lowe J, Shaw PJ. Amyotrophic lateral sclerosis: current issues in classification,
+pathogenesis and molecular pathology. Neuropathol Appl Neurobiol. 1998; 24:104–17. [PubMed:
+9634206]
+56. Olney RK, Murphy J, Forshew D, Garwood E, Miller BL, Langmore S, et al. The effects of
+executive and behavioural dysfunction on the course of ALS. Neurology. 2005; 65:1774–7.
+[PubMed: 16344521]
+57. Lomen-Hoerth C, Murphy J, Langmore S, Kramer JH, Olney RK, Miller B. Are amyotrophic
+lateral sclerosis patients cognitively normal? Neurology. 2003; 60:1094–7. [PubMed: 12682312]
+58. Rippon GA, Scarmeas N, Gordon PH, Murphy PL, Albert SM, Mitsumoto H, et al. An
+observational study of cognitive impairment in amyotrophic lateral sclerosis. Arch Neurol. 2006;
+63:345–52. [PubMed: 16533961]
+59. Desport JC, Preux PM, Truong TC, Vallat JM, Sautereau D, Couratier P. Nutritional status is a
+prognostic factor for survival in ALS patients. Neurology. 1999; 53:1059–63. [PubMed:
+10496266]
+60. Ringel SP, Murphy JR, Alderson MK, Bryan W, England JD, Miller RG, et al. The natural history
+of amyotrophic lateral sclerosis. Neurology. 1993; 43:1316–22. [PubMed: 8327132]
+61. Czaplinsli A, Yen AA, Appel SH. Forced vital capacity (FCV) as an indicator of survival and
+disease progression in an ALS clinic population. J Neurol Neurosurg Psychiatry. 2006; 77:390–2.
+[PubMed: 16484652]
+62. Schiffman PL, Belsh JM. Pulmonary function at diagnosis of ALS: rate of deterioration. Chest.
+1993; 103:508–13. [PubMed: 8432145]
+63. Lyall RA, Donaldson N, Polkey MI, Leigh PN, Moxham J. Respiratory muscle strength and
+ventilatory failure in ALS. Brain. 2001; 124:200–13.
+64. Schmid EP, Drachman DB, Wiener CM, Clawson L, Kimball L, Lechtzin N. Pulmonary predictors
+of survival in amyotrophic lateral sclerosis: use in clinical trial design. Muscle Nerve. 2006;
+33:127–32. [PubMed: 16258948]
+65. Jablecki CK, Berry C, Leach J. Survival prediction in amyotrophic lateral sclerosis. Muscle Nerve.
+1989; 12:833–41. [PubMed: 2608080]
+Chio et al.
+Page 12
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+66. Subcommittee on Motor Neuron Diseases/Amyotrophic Lateral Sclerosis of the World Federation
+of Neurology Research Group on Neuromuscular Diseases and the El Escorial clinical limits of
+amyotrophic lateral sclerosis workshop contributors. El Escorial World Federation of Neurology
+criteria for the diagnosis of amyotrophic lateral sclerosis. J Neurol Sci. 1994; 124(Suppl):96–107.
+[PubMed: 7807156]
+67. Turner MR, Parton MJ, Shaw CE, Leigh PN, Al-Chalabi A. Prolonged survival in motor neuron
+disease: a descriptive study of the King’s database 1990 2002. J Neurol Neurosurg Psychiatry.
+2003; 74:995–7. [PubMed: 12810805]
+68. Traynor BJ, Alexander M, Corr B, Frost E, Hardiman O. An outcome study of riluzole in
+amyotrophic lateral sclerosis. A population-based study in Ireland, 1996 2000. J Neurol. 2003;
+250:473–9. [PubMed: 12700914]
+69. Mitchell JD, O’Brien MR, Joshi M. Audit of outcomes in motor neuron disease (MND) patients
+treated with riluzole. Amyotroph Lateral Scler Other Motor Neuron Disord. 2006; 7:67–77.
+70. Miller RG, Mitchell JD, Lyon M, Moore DH. Riluzole for amyotrophic lateral sclerosis (ALS)/
+motor neuron disease (MND). Cochrane Database Syst Rev. Jan.2007 24(1):D001447.
+71. Mathus-Vliegen LMH, Louwersee LS, Merkus MP, Tytgat GNJ, de Jong JMBV. Percutaneous
+endoscopic gastrostomy in patients with amyotrophic lateral sclerosis and impaired pulmonary
+function. Gastrointest Endosc. 1994; 40:463–9. [PubMed: 7926537]
+72. Chiò A, Finocchiaro E, Meineri P, Bottacchi E, Schiffer D, the ALS Percutaneous Endoscopic
+Gastrostomy Study Group. Safety and factors related to survival after percutaneous endoscopic
+gastrostomy in ALS. Neurology. 1999; 53:1123–5. [PubMed: 10496278]
+73. Forbes RB, Colville S, Swingler RJ. Frequency, timing and outcome of gastrostomy tubes for
+amyotrophic lateral sclerosis/motor neuron disease. A record linkage study from the Scottish
+Motor Neurone Disease Register. J Neurol. 2004; 251:813–7. [PubMed: 15258782]
+74. Heffernan C, Jenkinson C, Holmes T, Feder G, Kupfer R, Leigh PN, et al. Nutritional management
+in MND/ALS patients: an evidence based review. Amyotroph Lateral Scler Other Motor Neuron
+Dis. 2004; 5:72–83.
+75. Pinto AC, Evangelista T, Carvalho M, Alves MA, Sales Luis ML. Respiratory assistance with a
+non-invasive ventilator (Bipap) in MND/ALS patients: survival rates in a controlled trial. J Neurol
+Sci. 1995; 129(Suppl):19–26. [PubMed: 7595610]
+76. Pinto A, deCarvalho M, Evangelista T, Lopes A, Sales-Lu ís L. Nocturnal pulse oximetry: a new
+approach to establish the appropriate time for non-invasive ventilation in ALS patients.
+Amyotroph Lateral Scler Other Motor Neuron Disord. 2003; 4:31–5. [PubMed: 12745616]
+77. Traynor BJ, Alexander M, Corr B, Frost E, Hardiman O. Effect of a multidisciplinary amyotrophic
+lateral sclerosis (ALS) clinic on ALS survival: a population based study, 1996 2000. J Neurol
+Neurosurg Psychiatr. 2003; 74:1258–61. [PubMed: 12933930]
+78. Chiò A, Bottacchi E, Buffa C, Mutani R, Mora G, PARALS. Positive effects of tertiary centres for
+amyotrophic lateral sclerosis on outcome and use of hospital facilities. J Neurol Neurosurg
+Psychiatry. 2006; 77:948–50. [PubMed: 16614011]
+79. Zoccolella S, Beghi E, Palagano G, Fraddosio A, Guerra V, Lepore V, et al. ALS multidisciplinary
+clinic and survival: results from a population-based study in southern Italy. J Neurol. 2007;
+254:1107–12. [PubMed: 17431705]
+80. Siddique T, Pericak-Vance MA, Caliendo J, Hong ST, Hung WY, Kaplan J, et al. Lack of
+association between apolipoprotein E genotype and amyotrophic lateral sclerosis. Neurogenetics.
+1998; 1:213–6. [PubMed: 10737125]
+81. Lacomblez L, Doppler V, Beucler I, Costes G, Salachas F, Raisonner A, et al. APOE: a potential
+marker of disease progression in ALS. Neurology. 2002; 58:1112–4. [PubMed: 11940705]
+82. Veldink JH, van den Berg LH, Cobben JM, Stulp RP, de Jong JMBV, Vogels OJ, et al.
+Homozygous deletion of the survival motor neuron 2 gene is a prognostic factor in sporadic ALS.
+Neurology. 2001; 56:753–7. [PubMed: 11274310]
+83. Gamez J, Barcelo MJ, Munoz X, Xarmona F, Cusco I, Baiget M, et al. Survival and respiratory
+decline are not related to homozygous SMN2 deletions in ALS patients. Neurology. 2002;
+59:1456–60. [PubMed: 12427907]
+Chio et al.
+Page 13
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+84. Jokic N, Gonzalez de Aguilar JL, Pradat PF, Dupuis L, Echaniz-Laguna A, Muller A, et al. Nogo
+expression in muscle correlates with amyotrophic lateral sclerosis severity. Ann Neurol. 2005;
+57:553–6. [PubMed: 15786457]
+85. Dupuis L, Corcia P, Fergani A, Gonzalez de Aguilar JL, Bonnefont-Rousselot D, Bittar R, et al.
+Dyslipidaemia is a protective factor in amyotrophic lateral sclerosis. Neurology. 2008; 70:1004–9.
+[PubMed: 18199832]
+86. Kalra S, Vitale A, Cashman NR, Genge A, Arnold DL. Cerebral degeneration predicts survival in
+amyotrophic lateral sclerosis. J Neurol Neurosurg Psychiatry. 2006; 77:1253–5. [PubMed:
+16835288]
+87. Zoccolella S, Beghi E, Palagano G, Fraddosio A, Samarelli V, Lamberti P, et al. for the SLAP
+registry. Predictors of delay in the diagnosis and clinical entry of amyotrophic lateral sclerosis
+patients: a population based study. J Neurol Sci. 2006; 250:45–9. [PubMed: 16920152]
+88. de Carvalho M, Scotto M, Lopes A, Swash M. Quantitating progression in ALS. Neurology. 2005;
+64:1783–5. [PubMed: 15911812]
+89. Pradas J, Finison L, Andres PL, Thornell B, Hollander D, Munsat TL. The natural history of
+amyotrophic lateral sclerosis and the use of natural history controls in therapeutic trials.
+Neurology. 1993; 43:751–5. [PubMed: 8469335]
+90. Altman DG, Bland JM. Treatment allocation by minimization. Br Med J. 2005:330–853. [PubMed:
+16081446]
+91. Treasure T, MacRae KD. Minimization: the platinum standard for trials. Br Med J. 1998:317–363.
+92. Schwid RS, Cutter GR. Futility studies: spending a little to save a lot. Neurology. 2006; 66:626–7.
+[PubMed: 16534098]
+93. Levy G, Kaufmann P, Buchsbaum R, Montes J, Barsdorf A, Arbing R, et al. A two-stage design
+for a phase II clinical trial of coenzyme Q10 in ALS. Neurology. 2006; 66:660–3. [PubMed:
+16534103]
+94. Rosen AD. Amyotrophic lateral sclerosis: clinical features and prognosis. Arch Neurol. 1978;
+35:638–42. [PubMed: 697604]
+95. Kondo K, Hemmi I. Clinical statistics of 515 fatal cases of motor neuron disease.
+Neuroepidemiology. 1984; 3:129–48.
+96. Chiò A, Brignolio F, Leone M, Mortara P, Rosso MG, Tribolo A, Schiffer D. A survival analysis
+of 155 cases of progressive muscular atrophy. Acta Neurol Scand. 1985; 72:407–13. [PubMed:
+4082906]
+97. Gubbay SS, Kahana E, Zilber N, Cooper G, Pintov S, Leibowitz Y. Amyotrophic lateral sclerosis:
+a study of its presentation and prognosis. J Neurol. 1985; 232:295–300. [PubMed: 4056836]
+98. Chiò A, Brignolio F, Meineri P, Schiffer D. Phenotypic and genotypic heterogeneity of dominantly
+inherited amyotrophic lateral sclerosis. Acta Neurol Scand. 1987; 75:277–82. [PubMed: 3591277]
+99. Eisen A, Schulzer M, MacNeil M, Pant B, Mak E. Duration of amyotrophic lateral sclerosis is age
+dependent. Muscle Nerve. 1993; 16:27–32. [PubMed: 8423829]
+100. Mandrioli J, Faglioni P, Nichelli P, Sola P. Amyotrophic lateral sclerosis: prognostic indicators of
+survival. Amyotroph Lateral Scler. 2006; 7:211–20. [PubMed: 17127559]
+101. Czaplinski A, Yen AA, Simpson EP, Appel SH. Slower disease progression and prolonged
+survival in contemporary patients with amyotrophic lateral sclerosis: is the natural history of
+amyotrophic lateral sclerosis changing? Arch Neurol. 2006; 63:1139–43. [PubMed: 16908741]
+102. Kristensen O, Melgaard B. Motor neuron disease: prognosis and epidemiology. Acta Neurol
+Scand. 1977; 56:299–308. [PubMed: 920110]
+103. Forsgren L, Almay BG, Holmgren G, Wall S. Epidemiology of motor neuron disease in northern
+Sweden. Acta Neurol Scand. 1983; 68:20–9. [PubMed: 6604389]
+104. Mortara P, Chiò A, Rosso MG, Leone M, Schiffer D. Motor neuron disease in the province of
+Turin, Italy, 1966 1980. Survival analysis in an unselected population. J Neurol Sci. 1984;
+66:165–73. [PubMed: 6530610]
+105. Granieri E, Carreras M, Tola R, Paolino E, Tralli G, Eleopra R, Serra G. Motor neuron disease in
+the province of Ferrara, Italy, 1964 1982. Neurology. 1988; 38:1604–8. [PubMed: 3419606]
+Chio et al.
+Page 14
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+106. Bettoni L, Bazzani M, Bortone E, Descola I, Pisani E, Mancia D. Steadiness of amyotrophic
+lateral sclerosis in the province of Parma, Italy, 1960 1990. Acta Neurol Scand. 1994; 90:276–80.
+[PubMed: 7839815]
+107. Alcaz S, Jarebinski M, Pekmezovic T, Stevic-Marinkovic Z, Pavlovic S, Apolstoski S.
+Epidemiological and clinical characteristics of ALS in Belgrade, Yugoslavia. Acta Neurol Scand.
+1996; 94:264–8. [PubMed: 8937538]
+108. Argyriou AA, Polychromatopoulos P, Papapetropolous S, Ellul J, Andriopoulos I, Katsoulas G, et
+al. Clinical and epidemiological features of motor neuron disease in southwestern Greece. Acta
+Neurol Scand. 2005; 111:108–13. [PubMed: 15644070]
+Chio et al.
+Page 15
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+$watermark-text
+$watermark-text
+$watermark-text
+
+$watermark-text
+$watermark-text
+$watermark-text
+Chio et al.
+Page 16
+Table I
+Studies of prognosis in ALS: studies based on referral series
+Reference
+Cases#
+Prospective/retrospective
+Mean age
+at onset
+(years)
+Median
+survival
+from
+onset
+(months)
+% 5-
+year
+survival
+from
+onset
+Significant prognostic factors
+Comments
+Drop-out rate (%)
+[94]
+668
+R
+56
+36§
+39
+Age, bulbar (worse)
+Highly selected cohort (ALS
+Foundation)
+NS
+[32]
+768
+R
+NS
+NS
+12.8
+(ALS)
+28.8
+(PMA)
+4.3
+(PBP)
+Type on onset; age; protein content of
+CSF (worse if >61 mg/dl); presence of
+hyperactive reflexes or Babinski
+response (worse). Geographical region
+not significant
+Questionnaire to 24
+neurological institutes in Japan.
+Only deceased cases included
+[95]
+515
+R
+50.8
+NA
+NA
+ALS worse than PMA. Older age,
+bulbar, left limbs (worse)
+Only deceased cases
+0
+[96]
+155
+R
+48
+>72§
+56 §
+Age, diffusion of symptoms at time of
+diagnosis
+PMA only
+3
+[97]
+318
+R
+56.6
+36
+29
+Bulbar (worse)
+Israel national neurological
+register
+NS
+[98]
+27
+R
+50.3
+24
+8
+None
+FALS only
+0
+[9]
+336
+R
+57
+60 (48 for
+ALS)
+35
+Age Type of onset non-significant
+Highly selected population
+0
+[65]
+194
+P
+59
+36
+32
+Age, ALS score, ALS duration
+3
+[8]
+708
+R
+57 (m), 60
+(f) (ALS)
+49 (m) 54
+(f) (benign
+ALS)
+38
+28
+Plateau in survival of younger patients
+162 more cases excluded due to
+various reasons
+1
+[99]
+138
+P
+57.8 (m)
+60.7 (w)
+43.2 (m)
+38.4 (w)
+NA
+Age
+Only deceased patients from a
+series of 246
+0
+[60]
+167
+P
+56
+NA
+48
+Age, presence of bulbar symptoms at
+entry, presence of fasciculations.
+Prevalent cases better than incident
+cases (4.7 vs. 2.1 years).
+5 ALS centers in U.S.
+1
+[53]
+144
+R
+55
+NA
+NA
+Effect of distressing psychological
+factors (COX: OR 2.24 [1.08–4.64])
+Patients from 3 ALS centers
+across U.S.
+0
+[10]
+831
+R
+55.7
+35
+37.5
+Age, diagnostic delay, slope of Appel
+score
+0
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+
+$watermark-text
+$watermark-text
+$watermark-text
+Chio et al.
+Page 17
+Reference
+Cases#
+Prospective/retrospective
+Mean age
+at onset
+(years)
+Median
+survival
+from
+onset
+(months)
+% 5-
+year
+survival
+from
+onset
+Significant prognostic factors
+Comments
+Drop-out rate (%)
+[11]
+158
+R
+62.7
+25.0–26.9
+14.7
+COX: upper limbs worse than lower
+Bulbar worse than spinal Age at onset
+NS
+[34]
+71
+R
+31.2
+25
+Gender (women worse), age Bulbar not
+significant
+NS
+[5]
+90
+P
+56.8
+23 (17
+from onset
+of study +
+6 pre-
+study)
+NA
+None
+Placebo arm of IGF-I trial
+NS
+[12]
+307
+R
+60
+16.8§
+NA
+Age, bulbar, time from onset to
+diagnosis
+11 additional patients were
+excluded because they were lost
+to follow-up FALS not
+significant
+0 (3%)
+[28]
+62
+P
+57
+38.4
+NA
+COX: linear estimate of decline in foot
+dorsiflexion strength, FVC%, grip
+strength
+Patients included in two trials
+NS
+[16]
+245
+P
+53.1
+(surviving)
+59.6
+(deceased)
+NA
+NA
+Age; bulbar onset; body weight; weight
+change from prestudy; FVC; pCO2;
+ALSFRS score; muscle strength
+megascore
+Placebo arm of CNTF trial.
+Comparison between surviving
+and deceased patients
+0
+[40]
+105
+R
+57.1
+32
+FVC at study entry (<80% worse than
+FVC ≥80%); bulbar (worse)
+The analysis included only the
+74 patients for whom FVC was
+available COX: age, bulbar
+onset, diagnostic delay (per
+month), FVC%
+30
+[39]
+155
+P
+54.2
+47
+NA
+Bulbar onset and >55 years worse
+COX: age, bulbar, faster progression in
+the first year of observation
+92 other patients were excluded
+because of missing data
+0
+[13]
+841
+R
+56
+43
+NA
+Age, referral delay, El Escorial
+classification
+Several variables with missing
+data
+NA
+[67]
+985
+R
+NA
+39
+NA
+Mean age of onset lower in long
+survivors (43 vs. 57)
+Analysis of long survivors
+(>120 months) from a tertiary
+center database
+22
+[14]
+793
+R
+56
+34.8
+24
+Diagnostic delay, age, bulbar onset,
+diagnosis ≥1990 better than before 1990
+0
+[41]
+267
+R
+61.7
+33.6
+NA
+COX: symptom duration, ALSFRS-R,
+FVC at baseline
+ALS referral center in New
+York City
+3
+[15]
+1398 671
+R
+62.5 61.7
+26 26
+NA NA
+COX: Age (≥65, >65), disease duration
+at diagnosis (<2, >2 years), plasma
+creatinine, atrophy diffusion, pyramidal
+Several variables with missing
+data, replaced with statistical
+0
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+
+$watermark-text
+$watermark-text
+$watermark-text
+Chio et al.
+Page 18
+Reference
+Cases#
+Prospective/retrospective
+Mean age
+at onset
+(years)
+Median
+survival
+from
+onset
+(months)
+% 5-
+year
+survival
+from
+onset
+Significant prognostic factors
+Comments
+Drop-out rate (%)
+signs, spasticity, fasciculation, muscle
+strength (MMT), cough, swallowing,
+sVC
+artifices Patients separated in 2
+cohorts
+[56]
+81
+P
+NA
+NA
+NA
+FTLD significantly worse in univariate
+analysis but not in multivariate. COX:
+age and bulbar onset significant
+FLTD was significantly
+associated with bulbar onset
+and older age at onset
+0
+[100]
+123
+R
+63.3
+27
+23
+Age, lower limb onset (better), area of
+residence (mountainous areas worse),
+and work (agricultural workers worse)
+0
+[29]
+1034
+R
+54.1
+41.4
+28
+COX: FVC < 75% at baseline; age at
+onset, bulbar onset, duration at
+diagnosis PEG and NIPPV not
+significant
+A series of three papers
+concerning the same large
+series of cases (see also ref. 55
+and 91)
+0
+[61]
+1034
+R
+54.1
+41.4
+28
+Prolonged survival related to younger
+age, limb site of onset and longer
+diagnostic delay, lower baseline
+AALSS, lower AALSS- preslope and
+higher baseline FVC
+0
+[101]
+1034
+R
+54.1
+41.4
+28
+Prolonged survival in more recent
+patients (1984–1998 vs. 1999–2004)
+0
+[50]
+479
+R
+58
+42.8
+20
+Prolonged survival related to young age
+at onset (<40), spinal onset, FVC >80 at
+diagnosis, longer diagnostic delay,
+ALSFRS-R score-ratio < 1.185
+ALSFRS-R score ratio was
+calculated as ALSFRS-R score
+at first visit – ALSFRS-R score
+at last visit/time between first
+and last visit in months
+18.90%
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+
+$watermark-text
+$watermark-text
+$watermark-text
+Chio et al.
+Page 19
+Table II
+Studies of prognosis in ALS: studies based on retrospective epidemiological series
+Reference
+Cases#
+Population
+P/R
+Mean age at
+onset (years)
+Median
+survival
+from onset
+(months)
+% 5-year
+survival
+from
+onset
+Significant prognostic factors
+Comments
+Drop-out rate (%)
+[102]
+118
+Y (Funen County, Denmark)
+R
+57
+34
+20
+Age; bulbar worse, but due to higher age
+in bulbar onset cases
+NS
+[103]
+128
+Y (northern Sweden)
+R
+59
+36
+28
+Bulbar (worse)
+Included both
+ALS and PMA
+0
+[104]
+220
+Y (Torino, Italy)
+R
+55.5
+33
+25.1
+None
+Included both
+ALS and PMA
+cases
+2%
+[19]
+44
+Y (Rochester, U.S.)
+N
+67.5
+23.8
+14
+Age; no time period effect (1925–1965 vs.
+1965–1984)
+0
+[105]
+72
+Y (Ferrara, Italy)
+N
+59
+24 (PBP) 48
+(ALS) 72
+(PMA)
+<10
+Bulbar (worse)
+0
+[33]
+62
+Y (Cantabria, Spain)
+N
+60.5
+26.6
+18
+Age, gender (women worse)
+[35]
+84
+Y (Hordaland County,
+Norway)
+N
+61
+28
+25
+24 (PBP), 40 (ALS); age COX: only
+bulbar vs. spinal (OR 2.93 [1.57–5.47])
+Gender, time period (<1984; ≥1984) non-
+significant
+0
+[20]
+186
+Y (2 Danish Counties)
+N
+64
+23
+6
+Age, bulbar (worse)
+0
+[21]
+148
+Y (Norway)
+R
+60.6
+16.5§
+18§
+Bulbar (worse); age; diagnostic delay
+FALS not significant
+0
+[106]
+121
+Y (Parma, Italy)
+R
+59.6
+30
+11.3
+Bulbar (worse); age not significant; no
+time period effect
+0
+[17]
+97 439
+Y (epid. cohort, Texas) N
+(referral cohort)
+R P
+57.3§ 58.5§
+21.3§ 22.3§
+4 21
+Age, bulbar (worse), FALS (worse),
+diagnostic delay Older age
+Comparison of
+a referral
+cohort to an
+incidence
+cohort
+0 in both cohorts
+[107]
+58
+Y* (Beograd, Yugoslavia)
+N
+56.2
+27.7
+NA
+Gender (f 38.6, m 22.8); age (<49, 36.3,
+≥50, 26.8) Site of onset non-significant
+Only the 32
+patients
+deceased
+during the
+follow-up were
+considered for
+survival
+analysis
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+
+$watermark-text
+$watermark-text
+$watermark-text
+Chio et al.
+Page 20
+Reference
+Cases#
+Population
+P/R
+Mean age at
+onset (years)
+Median
+survival
+from onset
+(months)
+% 5-year
+survival
+from
+onset
+Significant prognostic factors
+Comments
+Drop-out rate (%)
+[22]
+77
+Y (Rochester, U.S.)
+R
+63
+23–24
+NA
+Age Period (1925–1989; 1991–1998) not
+significant
+0
+[108]
+133
+Y* (Greece)
+R
+60.3
+20.4
+22
+None
+38%
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
+
+$watermark-text
+$watermark-text
+$watermark-text
+Chio et al.
+Page 21
+Table III
+Studies of prognosis in ALS: studies based on prospective epidemiological series (register methodology)
+Reference
+Cases#
+Population- based
+P/R
+Mean age at onset
+(years)
+Median
+survival
+from onset
+(months)
+% 5-year
+survival
+from
+onset
+Significant prognostic factors
+Comments
+Drop-out rate
+[23]
+229
+Y (Scotland)
+P
+64.3 (sALS) 55.6
+(fALS)
+30
+28
+PMA (better); PBP (worse); Age (<65 vs. >
+65); Gender (women worse)
+0
+[24]
+388
+Y (Ireland)
+P
+63.3(M) § 64.4(W) §
+NA
+17§
+No effect of El Escorial criteria on ALS
+survival
+0
+[25]
+193
+Y (Piemonte, Italy)
+P
+62.8
+30.5
+24.7
+COX: FVC (progression rate), lower limbs
+(progression rate), PEG, age, bulbar
+(progression rate), definite ALS (EEC),
+riluzole
+0
+[26]
+180
+Y (Washington State,
+U.S.)
+P
+61.3§
+32
+7§
+Gender (women worse), age, bulbar, ALS-SS,
+residence, no partner, BMI change, scarce
+physical activity (worse) COX: age, bulbar,
+SF-36 (physical function), time from onset to
+diagnosis
+No information
+on PEG, NIPPV
+0
+[30]
+1226
+Y (Scotland)
+P
+65.2 (M) 67.6 (W)
+25
+11
+COX: Date of diagnosis (<1993 better than
+≥1994); bulbar (worse); UMN + LMN worse
+than pure LMN Positive factors: riluzole,
+longer time onset-diagnosis, to be followed by
+a neurologist
+n.s. gender,
+fALS not
+included PEG,
+NIV Cox final
+model on 1048
+patients
+0
+[31]
+1226
+Y (Scotland)
+P
+NS
+20.3 (≥80
+yrs) 25.1
+(<80 yrs)
+NA
+Age strong predictor, independent from type
+of onset
+Comparison of
+patients with
+age ≥80 vs. <80.
+0
+[27]
+79
+Y (Lombardia, Italy)
+P
+64.4
+39.2
+43 (4 year
+survival)
+Age, bulbar, duration of symptoms at
+diagnosis COX: age, definite ALS (EEC)
+Large
+proportion of
+suspected ALS
+(mostly PMA)
+6%
+Note: Only studies using Kaplan-Meier survival curves are included.
+Abbrevations: ALS: amyotrophic lateral sclerosis; COX: Cox multivariate model; EEC: El Escorial diagnostic criteria; FALS: familial amyotrophic lateral sclerosis; FTLD: fronto-temporal lobe dementia;
+LMN: lower motor neuron; M: men; N: no; NA: not available; NIPPV: non-invasive positive pressure ventilation; NS: not stated; P: prospective; PBP: progressive bulbar palsy; PEG: percutaneous
+endoscopic gastrostomy; PMA: progressive muscular atrophy; R: retrospective; SALS: sporadic ALS; UMN: upper motor neuron; W: women; Y: yes.
+§from diagnosis.
+*incomplete ascertainment of cases.
+Amyotroph Lateral Scler. Author manuscript; available in PMC 2012 December 05.
