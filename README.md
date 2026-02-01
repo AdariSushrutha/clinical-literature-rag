@@ -1,241 +1,218 @@
-🧠 Clinical Literature RAG System for Rare Disease Decision Support
+# 🧠 Clinical Literature RAG System for Rare Disease Decision Support
 
-Disease focus: Amyotrophic Lateral Sclerosis (ALS)
-Domain: Clinical / Biomedical NLP
-Goal: Retrieval-grounded question answering over medical literature with safety constraints
+**Disease Focus:** Amyotrophic Lateral Sclerosis (ALS)  
+**Domain:** Clinical / Biomedical Natural Language Processing  
+**System Type:** Retrieval-Augmented Generation (RAG) with Safety Constraints  
 
-📌 Problem Statement
+---
 
-Clinicians and researchers working on rare diseases such as ALS face major challenges:
+## 📌 Problem Statement
 
-Relevant evidence is scattered across long clinical papers
+Clinicians and researchers working on **rare diseases** such as ALS face major challenges:
 
-Keyword search misses semantic meaning
+- Clinical evidence is scattered across long, dense research papers
+- Keyword-based search misses semantic meaning
+- Large Language Models (LLMs) can hallucinate unsupported medical facts
 
-Large Language Models (LLMs) can hallucinate clinical facts
+### 🎯 Objective
 
-🎯 Objective
+Build a **retrieval-grounded ML system** that:
+- Answers clinical questions **only using retrieved literature**
+- Provides **explicit citations**
+- Reports **confidence**
+- Minimizes hallucinations through system design
 
-Build a Retrieval-Augmented Generation (RAG) system that:
+> ⚠️ This is **not a chatbot**.  
+> It is a **safety-aware Retrieval-Augmented Generation (RAG) system**.
 
-Answers clinical questions only using retrieved literature
+---
 
-Provides citations
+## 🏗️ High-Level Architecture
 
-Reports confidence
-
-Avoids unsafe medical claims
-
-⚠️ This is not a chatbot — it is a retrieval-grounded ML system with explicit safety controls.
-
-🏗️ System Architecture (High-Level)
-Medical PDFs (ALS literature)
-        ↓
+Clinical PDFs (ALS literature)
+↓
 PDF → Text Conversion
-        ↓
+↓
 Cleaning & Semantic Chunking
-        ↓
+↓
 Biomedical Embeddings
-        ↓
+↓
 FAISS Vector Store
-        ↓
+↓
 Dense Retrieval (Recall)
-        ↓
+↓
 Cross-Encoder Re-Ranking (Precision)
-        ↓
-LLM Generation (Citation-grounded)
-        ↓
+↓
+LLM Generation
+↓
 Answer + Citations + Confidence
 
-📚 Data Sources
 
-PubMed Central Open-Access Articles
+---
 
-Peer-reviewed ALS clinical reviews
+## 📚 Data Sources
 
-Orphanet rare disease summaries
+- PubMed Central Open-Access clinical reviews
+- Peer-reviewed ALS literature
+- Orphanet rare disease summaries
 
-All data is:
+All sources are:
+- Open access
+- Research-grade
+- Non-proprietary
 
-Open access
+---
 
-Research-grade
+## 🧩 Ingestion & Chunking Strategy
 
-Non-proprietary
-
-🧩 Ingestion & Chunking Strategy (Key Design Choice)
-Why chunking matters
-
+### Why chunking matters
 Poor chunking leads to:
+- Irrelevant retrieval
+- Loss of clinical context
+- Increased hallucinations
 
-Irrelevant retrieval
+### Implemented approach
+- **Section-aware semantic chunking**
+- Chunked by clinical sections:
+  - Diagnosis
+  - Treatment
+  - Prognosis
+  - Pathophysiology
+- Chunk size: **300–500 tokens**
+- Overlap only **within the same section**
 
-Hallucinated answers
+This preserves medical coherence and improves retrieval quality.
 
-Loss of clinical context
+---
 
-Implemented approach
+## 🔍 Embeddings & Retrieval
 
-Section-aware semantic chunking
+### Embeddings
+- Domain-specific **biomedical sentence embeddings**
+- Optimized for clinical terminology
 
-Chunked by clinical sections:
+### Vector Store
+- **FAISS** for efficient similarity search
+- Metadata stored per chunk:
+  - Paper title
+  - Section name
+  - Publication year
 
-Diagnosis
+### Retrieval
+- Top-K dense retrieval
+- Section filtering for relevance (e.g., diagnosis queries prioritize diagnostic sections)
 
-Treatment
+---
 
-Prognosis
+## 🎯 Re-Ranking (Precision Layer)
 
-Pathophysiology
+Dense retrieval optimizes for **recall**, but not precision.
 
-300–500 tokens per chunk
+### Solution
+- Apply a **cross-encoder re-ranker**
+- Jointly score `(query, chunk)` pairs
+- Retain **top 3–5 most relevant chunks**
 
-Overlap only within the same section
+> Dense retrieval gets recall; **re-ranking gets precision**.
 
-📌 This preserves medical coherence and improves retrieval accuracy.
+This significantly improves factual grounding.
 
-🔍 Embeddings & Retrieval
-Embeddings
+---
 
-Domain-specific biomedical sentence embeddings
+## ✍️ Generation Layer (Safety-First Design)
 
-Optimized for clinical language and terminology
+### Prompt Constraints
+- The LLM **cannot answer without citations**
+- If confidence is below a threshold, the system responds with:
+  > *“Insufficient evidence found in retrieved literature.”*
 
-Vector Store
+### Output Format
+- Bullet-point clinical summary
+- Inline citations: `[Paper 1]`, `[Paper 2]`
+- Confidence level: **Low / Medium / High**
 
-FAISS for efficient similarity search
+⚠️ No diagnosis or medical advice language is permitted.
 
-Metadata stored per chunk:
+---
 
-Paper title
+## 🛡️ Confidence & Safety Layer
 
-Section name
+### Confidence estimation is based on:
+- Retrieval similarity scores
+- Agreement across multiple sources
+- Evidence coverage across independent papers
 
-Publication year
+### Safety rules
+- Literature-only phrasing
+- No prescriptive medical advice
+- Explicit uncertainty handling
 
-Retrieval
+---
 
-Dense Top-K retrieval
+## 📊 Evaluation Strategy
 
-Section filtering (e.g., prioritize Diagnosis for diagnostic queries)
+### Retrieval Evaluation
+- Recall@K
+- Mean Reciprocal Rank (MRR)
 
-🎯 Re-Ranking (Advanced Precision Layer)
+### Generation Evaluation
+- Factual consistency with retrieved chunks
+- Citation correctness
+- Manual clinical sanity checks
 
-Dense retrieval maximizes recall, but not precision.
+> Accuracy alone is insufficient; **grounding and faithfulness matter more**.
 
-Solution
+---
 
-Apply a cross-encoder re-ranker
+## 🔧 Tech Stack
 
-Score (query, chunk) pairs jointly
+| Layer | Technology |
+|-----|-----------|
+| Ingestion | Python |
+| Embeddings | HuggingFace |
+| Vector Database | FAISS |
+| Re-Ranking | Cross-Encoder |
+| LLM | Instruction-tuned open-source model |
+| API | FastAPI (planned) |
+| Storage | Local |
 
-Keep top 3–5 most relevant chunks
+---
 
-Dense retrieval gets recall; re-ranking gets precision.
+## ⚠️ Failure Modes & Mitigations
 
-This significantly improves answer faithfulness.
+| Failure Mode | Mitigation |
+|-------------|-----------|
+| Hallucination | Strict retrieval grounding |
+| Poor recall | Semantic chunking + domain embeddings |
+| Overconfidence | Confidence gating |
+| Outdated info | Metadata filtering |
 
-✍️ Generation Layer (Safety-First)
-Prompt Constraints
+---
 
-The LLM cannot answer without citations
-
-If evidence is weak → respond with:
-
-“Insufficient evidence found in retrieved literature.”
-
-Output Format
-
-Bullet-point clinical summary
-
-Inline citations: [Paper 1], [Paper 2]
-
-Confidence level: Low / Medium / High
-
-⚠️ No diagnosis or medical advice language is allowed.
-
-🛡️ Confidence & Safety Layer
-Confidence Score is based on:
-
-Retrieval similarity scores
-
-Agreement across multiple papers
-
-Coverage across independent sources
-
-Safety Rules
-
-Literature-only phrasing
-
-No prescriptive or diagnostic claims
-
-Explicit uncertainty when evidence is limited
-
-📊 Evaluation Strategy
-Retrieval Evaluation
-
-Recall@K
-
-Mean Reciprocal Rank (MRR)
-
-Generation Evaluation
-
-Factual consistency with retrieved text
-
-Citation correctness
-
-Manual clinical sanity checks
-
-Accuracy alone is insufficient — grounding and faithfulness matter more.
-
-🔧 Tech Stack
-Layer	Technology
-Ingestion	Python
-Embeddings	HuggingFace
-Vector DB	FAISS
-Re-ranking	Cross-Encoder
-LLM	Instruction-tuned open-source model
-API	FastAPI
-Storage	Local
-⚠️ Known Failure Modes & Mitigations
-Failure Mode	Mitigation
-Hallucinations	Strict retrieval grounding
-Poor recall	Semantic chunking + domain embeddings
-Overconfidence	Confidence gating
-Outdated info	Metadata filtering
-🧠 Why This Project Matters
+## 🧠 Why This Project Matters
 
 This project demonstrates:
+- End-to-end ML system design
+- NLP and embedding-based retrieval
+- Responsible LLM usage
+- Clinical safety awareness
+- Evaluation maturity
 
-Applied ML system design
+Designed as a **real-world applied ML system**, not a toy demo.
 
-NLP + embeddings expertise
+---
 
-Responsible LLM usage
+## ⚠️ Disclaimer
 
-Clinical safety awareness
+This system is intended for **research and educational purposes only**.  
+It does **not** provide medical advice, diagnosis, or treatment recommendations.
 
-Evaluation maturity
+---
 
-Designed as a real-world ML system, not a demo.
+## 🚀 Future Improvements
 
-📄 Resume-Ready Bullet
-
-Designed and implemented a Retrieval-Augmented Generation system for clinical literature analysis, integrating domain-specific embeddings, semantic chunking, cross-encoder re-ranking, and citation-grounded LLM responses to support rare disease decision-making while minimizing hallucinations.
-
-⚠️ Disclaimer
-
-This system is for research and educational purposes only.
-It does not provide medical advice or diagnoses.
-
-🚀 Next Enhancements
-
-FastAPI inference endpoint
-
-UI for clinicians
-
-Automated citation verification
-
-Temporal filtering of evidence
-
+- FastAPI inference endpoint
+- Interactive clinician-facing UI
+- Automated citation verification
+- Temporal filtering of literature
 
